@@ -2,7 +2,7 @@
   {
     "name": "PC Montado Gamer Intel Core i7 6700 de 3.4GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro",
     "original_price": 625.0,
-    "price_with_margin": 666.0,
+    "price_with_margin": 699.0,
     "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-6700-de-34ghz-16gb-de-ram-256gb-ssd-geforce-gtx-750ti-4gb-preto/54911/727599.jpg",
     "category": "Almacenamiento",
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
@@ -34,7 +34,7 @@
   {
     "name": "Placa de Video Macrovip Dual 8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2",
     "original_price": 123.0,
-    "price_with_margin": 140.4,
+    "price_with_margin": 150.0,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-dual-8gb-radeon-rx580-v2-gddr5-mv-rx5808gd5v2/58192/734212.jpg",
     "category": "Componentes",
     "specs": "8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2"
@@ -42,7 +42,7 @@
   {
     "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
     "original_price": 77.0,
-    "price_with_margin": 86.39999999999999,
+    "price_with_margin": 90.0,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
     "category": "Componentes",
     "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
@@ -50,7 +50,7 @@
   {
     "name": "Placa de Video Macrovip 4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2",
     "original_price": 37.75,
-    "price_with_margin": 40.8,
+    "price_with_margin": 49.99,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gt730-v2-ddr3-low-profile-mv-gt730lp4gd3v2/58189/734164.jpg",
     "category": "Componentes",
     "specs": "4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2"
@@ -58,7 +58,7 @@
   {
     "name": "Placa de Video Macrovip 4GB Radeon R7-240 DDR3 - MV-R72404GD3",
     "original_price": 47.0,
-    "price_with_margin": 46.8,
+    "price_with_margin": 59.99,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
     "category": "Componentes",
     "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
@@ -106,9 +106,233 @@
   {
     "name": "PC Gamer Elite DF Intel Core i7 / RTX 4070 / 32GB RAM",
     "original_price": 1500.0,
-    "price_with_margin": 1800.0,
+    "price_with_margin": 1900.0,
     "image": "images/computadora-gamer.jpeg",
     "category": "PCs Armadas",
     "specs": "Componentes de gama alta, ideal para streaming y gaming 4K"
+  },
+  {
+    "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
+    "original_price": 140.0,
+    "price_with_margin": 140.0,
+    "image": "https://cdn.visaovip.com/img/prod/celular-xiaomi-redmi-15c-4gb-de-ram-128gb-tela-69-dual-sim-lte-moonlight-azul-global/53880/716763.jpg",
+    "category": "Celulares",
+    "specs": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global"
+  },
+  {
+    "name": "Celular Samsung Galaxy A16 A165M 4Gb De Ram 128Gb Pantalla 6 7 Dual Sim Lte Negro Global",
+    "original_price": 150.0,
+    "price_with_margin": 150.0,
+    "image": "https://cdn.visaovip.com/img/prod/celular-samsung-galaxy-a16-a165m-4gb-de-ram-128gb-tela-67-dual-sim-lte-preto-global/50683/702530.jpg",
+    "category": "Celulares",
+    "specs": "Celular Samsung Galaxy A16 A165M 4Gb De Ram 128Gb Pantalla 6 7 Dual Sim Lte Negro Global"
+  },
+  {
+    "name": "Celular Samsung Galaxy A17 A175F 4Gb De Ram 128Gb Pantalla 6 7 Dual Sim Lte Negro Global",
+    "original_price": 180.0,
+    "price_with_margin": 180.0,
+    "image": "https://cdn.visaovip.com/img/prod/celular-samsung-galaxy-a17-a175f-4gb-de-ram-128gb-tela-67-dual-sim-lte-preto-global/55687/726703.jpg",
+    "category": "Celulares",
+    "specs": "Celular Samsung Galaxy A17 A175F 4Gb De Ram 128Gb Pantalla 6 7 Dual Sim Lte Negro Global"
+  },
+  {
+    "name": "Celular Xiaomi Redmi Note 15 8Gb De Ram 256Gb Pantalla 6 77 Dual Sim Lte Negro Global",
+    "original_price": 210.0,
+    "price_with_margin": 210.0,
+    "image": "https://cdn.visaovip.com/img/prod/celular-xiaomi-redmi-note-15-8gb-de-ram-256gb-tela-677-dual-sim-lte-preto-global/55803/725843.jpg",
+    "category": "Celulares",
+    "specs": "Celular Xiaomi Redmi Note 15 8Gb De Ram 256Gb Pantalla 6 77 Dual Sim Lte Negro Global"
+  },
+  {
+    "name": "Cel Xiaomi Poco X8 Pro 8Gb 256Gb Preto Global Dual Sim 5G 6 59",
+    "original_price": 350.0,
+    "price_with_margin": 350.0,
+    "image": "https://cdn.visaovip.com/img/prod/celular-xiaomi-poco-x8-pro-8gb-de-ram-256gb-tela-659-dual-sim-5g-preto-global/57230/729666.jpg",
+    "category": "Celulares",
+    "specs": "Cel Xiaomi Poco X8 Pro 8Gb 256Gb Preto Global Dual Sim 5G 6 59"
+  },
+  {
+    "name": "Notebook Acer Aspire Lite Al15 36P C0M7 Intel Core N150 Pantalla Full Hd 15 6 4Gb De Ram 128Gb Ssd Win11Home Light Plata Ingles",
+    "original_price": 300.0,
+    "price_with_margin": 300.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-acer-aspire-lite-al15-36p-c0m7-intel-core-n150-tela-full-hd-156-4gb-de-ram-128gb-ssd-win11home-light-prata-ingles/56942/728940.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Acer Aspire Lite Al15 36P C0M7 Intel Core N150 Pantalla Full Hd 15 6 4Gb De Ram 128Gb Ssd Win11Home Light Plata Ingles"
+  },
+  {
+    "name": "Notebook Lenovo Ideapad 1 15Amn7 Amd Ryzen 5 7520U Pantalla Full Hd 15 6 8Gb De Ram 256Gb Ssd Win11 Abyss Azul 82Vg00Wxus Ingles",
+    "original_price": 480.0,
+    "price_with_margin": 480.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-ideapad-1-15amn7-amd-ryzen-5-7520u-tela-full-hd-156-8gb-de-ram-256gb-ssd-win11-abyss-azul-82vg00wxus-ingles/55549/724127.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Lenovo Ideapad 1 15Amn7 Amd Ryzen 5 7520U Pantalla Full Hd 15 6 8Gb De Ram 256Gb Ssd Win11 Abyss Azul 82Vg00Wxus Ingles"
+  },
+  {
+    "name": "Notebook Lenovo Ideapad Slim 3 15Ian8 Intel Core I3 N305 Pantalla Full Hd 15 6 8Gb De Ram 256Gb Ssd Win11Home Abyss Azul 82Xb00Bmus Ingles",
+    "original_price": 500.0,
+    "price_with_margin": 500.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-ideapad-slim-3-15ian8-intel-core-i3-n305-tela-full-hd-156-8gb-de-ram-256gb-ssd-win11home-abyss-azul-82xb00bmus-ingles/54155/718057.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Lenovo Ideapad Slim 3 15Ian8 Intel Core I3 N305 Pantalla Full Hd 15 6 8Gb De Ram 256Gb Ssd Win11Home Abyss Azul 82Xb00Bmus Ingles"
+  },
+  {
+    "name": "Notebook Lenovo V15 G4 Amn Amd Ryzen 3 7320U Pantalla Full Hd 15 6 16Gb De Ram 512Gb Ssd Win11 Business Negro Ingles",
+    "original_price": 530.0,
+    "price_with_margin": 530.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-v15-g4-amn-amd-ryzen-3-7320u-tela-full-hd-156-16gb-de-ram-512gb-ssd-win11-business-preto-ingles/57894/732508.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Lenovo V15 G4 Amn Amd Ryzen 3 7320U Pantalla Full Hd 15 6 16Gb De Ram 512Gb Ssd Win11 Business Negro Ingles"
+  },
+  {
+    "name": "Notebook Hp Omnibook X Flip Ai 14 Fk0033Dx Amd Ryzen Ai 7 350 Pantalla Touch Wuxga 14 0 24Gb De Ram 1Tb Ssd Win11Home Gris Ingles",
+    "original_price": 1040.0,
+    "price_with_margin": 1040.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-flip-ai-14-fk0033dx-amd-ryzen-ai-7-350-tela-touch-wuxga-140-24gb-de-ram-1tb-ssd-win11home-cinza-ingles/58855/737556.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Hp Omnibook X Flip Ai 14 Fk0033Dx Amd Ryzen Ai 7 350 Pantalla Touch Wuxga 14 0 24Gb De Ram 1Tb Ssd Win11Home Gris Ingles"
+  },
+  {
+    "name": "Notebook Acer Aspire Go 15 Ag15 42P R3Gm Amd Ryzen 7 7730U Pantalla Full Hd 15 6 32Gb De Ram 1Tb Ssd Win11Home Steel Gris Ingles",
+    "original_price": 860.0,
+    "price_with_margin": 860.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-acer-aspire-go-15-ag15-42p-r3gm-amd-ryzen-7-7730u-tela-full-hd-156-32gb-de-ram-1tb-ssd-win11home-steel-cinza-ingles/56645/728064.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Acer Aspire Go 15 Ag15 42P R3Gm Amd Ryzen 7 7730U Pantalla Full Hd 15 6 32Gb De Ram 1Tb Ssd Win11Home Steel Gris Ingles"
+  },
+  {
+    "name": "Notebook Gamer Acer Nitro V 16 Anv16 72 933F Intel Core 9 270H Pantalla Wuxga 16 32Gb De Ram 1Tb Ssd Win11Home Geforce Rtx5070 8Gb Obsidian Negro Ingles",
+    "original_price": 1850.0,
+    "price_with_margin": 1850.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-acer-nitro-v-16-anv16-72-933f-intel-core-9-270h-tela-wuxga-16-32gb-de-ram-1tb-ssd-win11home-geforce-rtx5070-8gb-obsidian-preto-ingles/55782/725208.jpg",
+    "category": "Notebooks",
+    "specs": "Notebook Gamer Acer Nitro V 16 Anv16 72 933F Intel Core 9 270H Pantalla Wuxga 16 32Gb De Ram 1Tb Ssd Win11Home Geforce Rtx5070 8Gb Obsidian Negro Ingles"
+  },
+  {
+    "name": "Auricular Xiaomi Redmi Buds 6 Play Bluetooth Negro Bhr8776Gl",
+    "original_price": 17.0,
+    "price_with_margin": 17.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-redmi-buds-6-play-bluetooth-preto-bhr8776gl/47927/677574.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Redmi Buds 6 Play Bluetooth Negro Bhr8776Gl"
+  },
+  {
+    "name": "Auricular Xiaomi Redmi Buds 8 Active Bluetooth Negro Bhr08Jtgl",
+    "original_price": 24.0,
+    "price_with_margin": 24.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-redmi-buds-8-active-bluetooth-preto-bhr08jtgl/57958/732884.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Redmi Buds 8 Active Bluetooth Negro Bhr08Jtgl"
+  },
+  {
+    "name": "Auricular Xiaomi Redmi Buds 6 Bluetooth Night Negro Bhr9251Gl",
+    "original_price": 34.0,
+    "price_with_margin": 34.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-redmi-buds-6-bluetooth-night-preto-bhr9251gl/52090/709030.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Redmi Buds 6 Bluetooth Night Negro Bhr9251Gl"
+  },
+  {
+    "name": "Auricular Jbl Tune T520Bt Pure Bass Bluetooth Negro",
+    "original_price": 38.0,
+    "price_with_margin": 38.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-tune-t520bt-pure-bass-bluetooth-preto/39686/614402.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Jbl Tune T520Bt Pure Bass Bluetooth Negro"
+  },
+  {
+    "name": "Auricular Jbl Tune 230Nc Tws Bluetooth Negro",
+    "original_price": 55.0,
+    "price_with_margin": 55.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-tune-230nc-tws-bluetooth-preto/33250/547596.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Jbl Tune 230Nc Tws Bluetooth Negro"
+  },
+  {
+    "name": "Auricular Xiaomi Redmi Buds 5 Pro Bluetooth Moonlight Blanco Bhr7662Gl",
+    "original_price": 62.0,
+    "price_with_margin": 62.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-redmi-buds-5-pro-bluetooth-moonlight-branco-bhr7662gl/45057/638122.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Redmi Buds 5 Pro Bluetooth Moonlight Blanco Bhr7662Gl"
+  },
+  {
+    "name": "Auricular Xiaomi Redmi Buds 8 Pro Bluetooth Obsidian Negro Bhr08Gogl",
+    "original_price": 69.0,
+    "price_with_margin": 69.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-redmi-buds-8-pro-bluetooth-obsidian-preto-bhr08gogl/58651/736713.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Redmi Buds 8 Pro Bluetooth Obsidian Negro Bhr08Gogl"
+  },
+  {
+    "name": "Apple Macbook Neo Mhfa4Ll A A3404 A18 Pro 6 Core Pantalla Retina 13 0 8Gb De Ram 256Gb Ssd Silver 2026",
+    "original_price": 720.0,
+    "price_with_margin": 720.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-macbook-neo-mhfa4lla-a3404-a18-pro-6-core-tela-retina-130-8gb-de-ram-256gb-ssd-silver-2026/57285/731605.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Macbook Neo Mhfa4Ll A A3404 A18 Pro 6 Core Pantalla Retina 13 0 8Gb De Ram 256Gb Ssd Silver 2026"
+  },
+  {
+    "name": "Apple Macbook Air Mdhh4Ll A A3449 M5 10 Core Pantalla Retina 13 6 16Gb De Ram 512Gb Ssd Sky 2026",
+    "original_price": 1290.0,
+    "price_with_margin": 1290.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-macbook-air-mdhh4lla-a3449-m5-10-core-tela-retina-136-16gb-de-ram-512gb-ssd-sky-2026/57406/731010.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Macbook Air Mdhh4Ll A A3449 M5 10 Core Pantalla Retina 13 6 16Gb De Ram 512Gb Ssd Sky 2026"
+  },
+  {
+    "name": "Apple Iphone 13 Mlml3Ll A A2482 128Gb Midnight Swap Grade A",
+    "original_price": 370.0,
+    "price_with_margin": 370.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-13-mlml3lla-a2482-128gb-midnight-swap-grade-a/57997/733046.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 13 Mlml3Ll A A2482 128Gb Midnight Swap Grade A"
+  },
+  {
+    "name": "Apple Iphone 13 Pro Mlr23Ll A A2483 128Gb Graphite Swap Grade A",
+    "original_price": 470.0,
+    "price_with_margin": 470.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-13-pro-mlr23lla-a2483-128gb-graphite-swap-grade-a/57992/733070.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 13 Pro Mlr23Ll A A2483 128Gb Graphite Swap Grade A"
+  },
+  {
+    "name": "Apple Iphone 17E Mhrn4Ll A A3575 256Gb Esim Black",
+    "original_price": 660.0,
+    "price_with_margin": 660.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-17e-mhrn4lla-a3575-256gb-esim-black/57255/729342.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 17E Mhrn4Ll A A3575 256Gb Esim Black"
+  },
+  {
+    "name": "Apple Iphone 16 Myap3Ll A A3081 128Gb Swap Grade A Black Americano",
+    "original_price": 710.0,
+    "price_with_margin": 710.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-16-myap3lla-a3081-128gb-swap-grade-a-black-americano/58870/737657.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 16 Myap3Ll A A3081 128Gb Swap Grade A Black Americano"
+  },
+  {
+    "name": "Apple Iphone 16 Pro Mym93Ll A A3083 128Gb Swap Grade A Black Titanium Americano",
+    "original_price": 860.0,
+    "price_with_margin": 860.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-16-pro-mym93lla-a3083-128gb-swap-grade-a-black-titanium-americano/58874/737676.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 16 Pro Mym93Ll A A3083 128Gb Swap Grade A Black Titanium Americano"
+  },
+  {
+    "name": "Cel Apple Iphone 16 Pro Max Myw33Ll A 256Gb Black Titanium A3084 Swap A Oem",
+    "original_price": 999.0,
+    "price_with_margin": 999.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-16-pro-max-myw33lla-a3084-256gb-black-titanium-swap-grade-a/57469/730655.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Cel Apple Iphone 16 Pro Max Myw33Ll A 256Gb Black Titanium A3084 Swap A Oem"
+  },
+  {
+    "name": "Apple Iphone 17 Pro Max Mfxg4Ll A A3257 256Gb Esim Silver",
+    "original_price": 1495.0,
+    "price_with_margin": 1495.0,
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-17-pro-max-mfxg4lla-a3257-256gb-esim-silver/54335/719028.jpg",
+    "category": "Dispositivos Apple",
+    "specs": "Apple Iphone 17 Pro Max Mfxg4Ll A A3257 256Gb Esim Silver"
   }
 ]

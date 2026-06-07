@@ -27,9 +27,15 @@ def get_manual_prices():
         try:
             with open(MANUAL_PRICES_FILE, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                raw_prices = data.get("descripciones_manuales", {})
-                # Normalizar claves a minúsculas y sin espacios
-                return {k.strip().lower(): v for k, v in raw_prices.items()}
+
+                # Intento obtener precios de "descripciones_manuales"
+                manual_data = data.get("descripciones_manuales", {})
+
+                # Si "descripciones_manuales" está vacío, buscamos precios en la raíz del JSON
+                if not manual_data:
+                    manual_data = {k: v for k, v in data.items() if k != "descripciones_manuales" and isinstance(v, (int, float))}
+
+                return {k.strip().lower(): v for k, v in manual_data.items()}
         except Exception as e:
             print(f"[WARNING] Error al leer precios manuales: {e}")
     return {}
@@ -49,6 +55,19 @@ def clean_price(price_text):
     except Exception:
         return 0.0
 
+def calculate_final_price(name, current_price, manual_prices):
+    name_normalized = name.strip().lower()
+    # Priority: Manual Price > Current Price * MARKUP
+    if name_normalized in manual_prices:
+        return float(manual_prices[name_normalized])
+
+    # Búsqueda por subcadena para facilitar la coincidencia manual
+    for key, val in manual_prices.items():
+        if key in name_normalized and len(key) >= 5:
+            return float(val)
+
+    return current_price * MARKUP
+
 def scrape_products():
     print(f"[INFO] Iniciando scraping de {TARGET_URL}...")
     headers = {
@@ -66,26 +85,21 @@ def scrape_products():
     products_data = []
     manual_prices = get_manual_prices()
 
-    # According to analysis: products are likely in anchors with /es/prod/
-    # We search for all product-like links
     links = soup.find_all('a', href=re.compile(r'/es/prod/'))
 
     for link in links:
         try:
-            # Extract Name using precise selector
             name_el = link.find('p', class_=re.compile(r'text-black-alpha-90'))
             if not name_el:
                 continue
             name = name_el.get_text(strip=True)
 
-            # Extract Prices using precise selectors
             orig_el = link.find('p', class_=re.compile(r'text-line-through'))
             dest_el = link.find('p', class_=re.compile(r'PrecoDestacado'))
 
             orig_price_text = orig_el.get_text(strip=True) if orig_el else ""
             dest_price_text = dest_el.get_text(strip=True) if dest_el else ""
 
-            # Fallback if there is no line-through price
             if not orig_price_text and dest_price_text:
                 orig_price_text = dest_price_text
 
@@ -95,45 +109,37 @@ def scrape_products():
             if price_val == 0.0:
                 continue
 
-            # Extract Image
             img_tag = link.find('img')
             img_url = img_tag['src'] if img_tag else "https://via.placeholder.com/300"
             if img_url.startswith('/'):
                 img_url = "https://www.visaovip.com" + img_url
 
-            # Category Determination (Simplified: we can assign based on keywords)
             category = "Otros"
-            if any(k in name.lower() for k in ["ram", "ssd", "disco", "almacenamiento"]):
+            name_lower = name.lower()
+            if any(k in name_lower for k in ["iphone", "ipad", "apple watch", "icloud", "macbook"]):
+                category = "Dispositivos Apple"
+            elif any(k in name_lower for k in ["ram", "ssd", "disco", "almacenamiento"]):
                 category = "Almacenamiento"
-            elif any(k in name.lower() for k in ["gpu", "cpu", "procesador", "placa", "fuente", "gabinete"]):
+            elif any(k in name_lower for k in ["gpu", "cpu", "procesador", "placa", "fuente", "gabinete"]):
                 category = "Componentes"
-            elif any(k in name.lower() for k in ["teclado", "mouse", "auricular", "monitor", "periferico"]):
+            elif any(k in name_lower for k in ["teclado", "mouse", "monitor", "periferico"]):
                 category = "Periféricos"
-            elif any(k in name.lower() for k in ["pc armada", "estacion", "gamer pc"]):
+            elif any(k in name_lower for k in ["auricular", "headset", "cascos", "buds"]):
+                category = "Auriculares"
+            elif any(k in name_lower for k in ["celular", "smartphone", "teléfono"]):
+                category = "Celulares"
+            elif any(k in name_lower for k in ["notebook", "laptop", "portátil"]):
+                category = "Notebooks"
+            elif any(k in name_lower for k in ["pc armada", "estacion", "gamer pc"]):
                 category = "PCs Armadas"
 
-            # Specifications Extraction (Usually embedded in the name on this site)
-            specs = name # Default to name if no clear split
+            specs = name
             spec_match = re.search(r'(\d+GB|\d+TB|DDR\d|MHz|GHz).*', name)
             if spec_match:
                 specs = name[spec_match.start():]
 
-            # PRICING LOGIC
-            # Priority: Manual Price > Original Price * 1.20 (applied on promo price)
-            name_normalized = name.strip().lower()
-            if name_normalized in manual_prices:
-                final_price = float(manual_prices[name_normalized])
-            else:
-                # Búsqueda por subcadena para facilitar la coincidencia manual
-                matched_price = None
-                for key, val in manual_prices.items():
-                    if key in name_normalized and len(key) >= 5:
-                        matched_price = float(val)
-                        break
-                if matched_price is not None:
-                    final_price = matched_price
-                else:
-                    final_price = price_val * MARKUP
+            # Use the new pricing helper
+            final_price = calculate_final_price(name, price_val, manual_prices)
 
             products_data.append({
                 "name": name,
@@ -151,11 +157,18 @@ def scrape_products():
 def main():
     products = scrape_products()
     manual_products = get_manual_products()
+    manual_prices = get_manual_prices()
+
     if manual_products:
         print(f"[INFO] Agregando {len(manual_products)} productos manuales...")
         # Evitar duplicados por nombre
         manual_names = {p['name'].lower() for p in manual_products}
         products = [p for p in products if p['name'].lower() not in manual_names]
+
+        # Apply manual prices to manual products as well
+        for p in manual_products:
+            p['price_with_margin'] = calculate_final_price(p['name'], p['price_with_margin'] / MARKUP if 'price_with_margin' in p else p['original_price'], manual_prices)
+
         products.extend(manual_products)
 
     if products:
