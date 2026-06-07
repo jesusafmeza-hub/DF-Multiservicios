@@ -1,0 +1,114 @@
+[
+  {
+    "name": "PC Montado Gamer Intel Core i7 6700 de 3.4GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro",
+    "original_price": 625.0,
+    "price_with_margin": 666.0,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-6700-de-34ghz-16gb-de-ram-256gb-ssd-geforce-gtx-750ti-4gb-preto/54911/727599.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
+  },
+  {
+    "name": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco",
+    "original_price": 99.0,
+    "price_with_margin": 106.8,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-msi-pro-mp243w-e14-238-full-hd-ips-led-144hz-1ms-branco/58462/735536.gif",
+    "category": "Periféricos",
+    "specs": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco"
+  },
+  {
+    "name": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro",
+    "original_price": 94.0,
+    "price_with_margin": 105.6,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-msi-pro-mp242-e14a-238-full-hd-ips-led-144hz-1ms-preto/58461/735532.gif",
+    "category": "Periféricos",
+    "specs": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro"
+  },
+  {
+    "name": "Placa Madre MSI Pro H810M-E Socket LGA 1851 / DDR5",
+    "original_price": 99.0,
+    "price_with_margin": 112.2,
+    "image": "https://cdn.visaovip.com/img/prod/placa-mae-msi-pro-h810m-e-socket-lga-1851-ddr5/58460/735569.gif",
+    "category": "Componentes",
+    "specs": "DDR5"
+  },
+  {
+    "name": "Placa de Video Macrovip Dual 8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2",
+    "original_price": 123.0,
+    "price_with_margin": 140.4,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-dual-8gb-radeon-rx580-v2-gddr5-mv-rx5808gd5v2/58192/734212.jpg",
+    "category": "Componentes",
+    "specs": "8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2"
+  },
+  {
+    "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
+    "original_price": 77.0,
+    "price_with_margin": 86.39999999999999,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
+    "category": "Componentes",
+    "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
+  },
+  {
+    "name": "Placa de Video Macrovip 4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2",
+    "original_price": 37.75,
+    "price_with_margin": 40.8,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gt730-v2-ddr3-low-profile-mv-gt730lp4gd3v2/58189/734164.jpg",
+    "category": "Componentes",
+    "specs": "4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2"
+  },
+  {
+    "name": "Placa de Video Macrovip 4GB Radeon R7-240 DDR3 - MV-R72404GD3",
+    "original_price": 47.0,
+    "price_with_margin": 46.8,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
+    "category": "Componentes",
+    "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
+  },
+  {
+    "name": "Notebook Dell Precision 7780 Intel Core i9 13950HX Pantalla Full HD 17.3\" / 128GB de RAM / 4TB SSD / GeForce RTX5000A 16GB / Win11 Pro - Gris (Inglés)",
+    "original_price": 4399.0,
+    "price_with_margin": 5254.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-dell-precision-7780-intel-core-i9-13950hx-tela-full-hd-173-128gb-de-ram-4tb-ssd-geforce-rtx5000a-16gb-win11-pro-cinza-ingles/57875/732559.jpg",
+    "category": "Almacenamiento",
+    "specs": "128GB de RAM / 4TB SSD / GeForce RTX5000A 16GB / Win11 Pro - Gris (Inglés)"
+  },
+  {
+    "name": "Placa de Vídeo Gigabyte Windforce OC 8GB GeForce RTX5050 GDDR6 - GV-N5050WF2OC-8GD",
+    "original_price": 335.0,
+    "price_with_margin": 382.8,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-windforce-oc-8gb-geforce-rtx5050-gddr6-gv-n5050wf2oc-8gd/57783/732083.jpg",
+    "category": "Componentes",
+    "specs": "8GB GeForce RTX5050 GDDR6 - GV-N5050WF2OC-8GD"
+  },
+  {
+    "name": "Notebook Acer GadGet E10 ETBook Yoga CWI557 Intel Core i3 1315U Pantalla Touch 2.5K 13.4\" / 8GB de RAM / 256GB SSD / Win11 - Gris (Español / Portugues)",
+    "original_price": 483.0,
+    "price_with_margin": 562.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-acer-gadget-e10-etbook-yoga-cwi557-intel-core-i3-1315u-tela-touch-25k-134-8gb-de-ram-256gb-ssd-win11-cinza-espanhol-portugues/57717/732685.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD / Win11 - Gris (Español / Portugues)"
+  },
+  {
+    "name": "Placa Madre Macrovip MV-B850 Socket AM5 / VGA / DDR5",
+    "original_price": 80.0,
+    "price_with_margin": 88.2,
+    "image": "https://cdn.visaovip.com/img/prod/placa-mae-macrovip-mv-b850-socket-am5-vga-ddr5/57702/731791.jpg",
+    "category": "Componentes",
+    "specs": "DDR5"
+  },
+  {
+    "name": "Kit Antena Starlink V4 Standard",
+    "original_price": 450.0,
+    "price_with_margin": 540.0,
+    "image": "images/instalacion-de-antena-starlink.jpeg",
+    "category": "Periféricos",
+    "specs": "Internet satelital de alta velocidad, ideal para áreas rurales"
+  },
+  {
+    "name": "PC Gamer Elite DF Intel Core i7 / RTX 4070 / 32GB RAM",
+    "original_price": 1500.0,
+    "price_with_margin": 1800.0,
+    "image": "images/computadora-gamer.jpeg",
+    "category": "PCs Armadas",
+    "specs": "Componentes de gama alta, ideal para streaming y gaming 4K"
+  }
+]

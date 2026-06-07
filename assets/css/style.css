@@ -1,0 +1,82 @@
+/* Custom styles to complement Tailwind */
+body {
+    background-color: #080808;
+    color: #f4f4f5;
+}
+
+.glass-panel {
+    background: rgba(22, 22, 26, 0.8);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.neon-glow {
+    box-shadow: 0 0 20px rgba(255, 107, 0, 0.3);
+}
+
+.neon-glow-hover:hover {
+    box-shadow: 0 0 30px rgba(255, 107, 0, 0.5);
+}
+
+.gradient-text {
+    background: linear-gradient(135deg, #ff6b00, #fd9e00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #ff6b00, #fd9e00);
+    color: white;
+    transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-secondary {
+    border: 1px solid #ff6b00;
+    color: #ff6b00;
+    background: transparent;
+    transition: all 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Hero Slider Animations */
+.slide-hidden {
+    opacity: 0;
+    transform: scale(1.05);
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+    pointer-events: none;
+    position: absolute;
+    inset: 0;
+}
+.slide-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 1s ease-in-out, transform 10s linear;
+    pointer-events: auto;
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+}
+
+/* Float animation for WhatsApp */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+}
+.animate-float {
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes pulse-ring {
+    0% { transform: scale(0.8); opacity: 0.5; }
+    100% { transform: scale(1.5); opacity: 0; }
+}
+.pulse-effect::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;
+    border-radius: 50%;
+    background-color: #ff6b00;
+    z-index: -1;
+    animation: pulse-ring 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}

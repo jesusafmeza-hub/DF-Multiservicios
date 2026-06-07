@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Kit Antena Starlink V4 Standard",
+    "original_price": 450.00,
+    "price_with_margin": 540.00,
+    "image": "images/instalacion-de-antena-starlink.jpeg",
+    "category": "Periféricos",
+    "specs": "Internet satelital de alta velocidad, ideal para áreas rurales"
+  },
+  {
+    "name": "PC Gamer Elite DF Intel Core i7 / RTX 4070 / 32GB RAM",
+    "original_price": 1500.00,
+    "price_with_margin": 1800.00,
+    "image": "images/computadora-gamer.jpeg",
+    "category": "PCs Armadas",
+    "specs": "Componentes de gama alta, ideal para streaming y gaming 4K"
+  }
+]
