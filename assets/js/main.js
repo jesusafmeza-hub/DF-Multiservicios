@@ -1,6 +1,34 @@
 const WHATSAPP_PHONE = document.querySelector('meta[name="whatsapp-phone"]')?.content || '595973232127';
 const PLACEHOLDER_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300' viewBox='0 0 300 300'%3E%3Crect fill='%231a1a1a' width='300' height='300'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' font-family='system-ui' font-size='14' fill='%23555'%3ESin imagen%3C/text%3E%3C/svg%3E";
 
+function openProductModal(product) {
+    const modal = document.getElementById('product-modal');
+    if (!modal) return;
+
+    const finalPrice = "$" + parseFloat(product.price_with_margin).toFixed(2);
+    const message = encodeURIComponent(`Hola, vi en la página el producto ${product.name} por ${finalPrice} y me interesa`);
+    const waLink = `https://wa.me/${WHATSAPP_PHONE}?text=${message}`;
+
+    document.getElementById('modal-category').textContent = product.category;
+    document.getElementById('modal-name').textContent = product.name;
+    document.getElementById('modal-specs').textContent = product.specs;
+    document.getElementById('modal-price').textContent = finalPrice;
+    document.getElementById('modal-image').src = product.image;
+    document.getElementById('modal-image').alt = product.name;
+    document.getElementById('modal-wa-link').href = waLink;
+
+    modal.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeProductModal() {
+    const modal = document.getElementById('product-modal');
+    if (modal) {
+        modal.classList.add('hidden');
+        document.body.style.overflow = '';
+    }
+}
+
 async function loadProducts(filter = 'Todos') {
     const productGrid = document.getElementById('product-grid');
     if (!productGrid) return;
@@ -28,7 +56,7 @@ async function loadProducts(filter = 'Todos') {
                 const waLink = `https://wa.me/${WHATSAPP_PHONE}?text=${message}`;
 
                 const card = document.createElement('div');
-                card.className = 'glass-panel p-2 md:p-4 rounded-xl flex flex-col justify-between border-t border-white/5 hover:-translate-y-2 transition-transform duration-300';
+                card.className = 'glass-panel p-2 md:p-4 rounded-xl flex flex-col justify-between border-t border-white/5 hover:-translate-y-2 transition-transform duration-300 cursor-pointer';
                 card.innerHTML = `
                     <div class="flex flex-col h-full">
                         <div class="w-full h-32 md:h-48 bg-white/5 rounded-lg mb-4 overflow-hidden flex items-center justify-center">
@@ -40,13 +68,15 @@ async function loadProducts(filter = 'Todos') {
                         </div>
                         <div class="mt-4">
                             <p class="text-primary-container font-bold text-base md:text-xl mb-4">${finalPrice}</p>
-                            <a href="${waLink}" target="_blank" class="btn-primary w-full py-2.5 rounded-lg font-label-md flex justify-center items-center gap-2 neon-glow hover:neon-glow-hover focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background">
+                            <a href="${waLink}" target="_blank" class="btn-primary w-full py-2.5 rounded-lg font-label-md flex justify-center items-center gap-2 neon-glow hover:neon-glow-hover focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 focus-visible:ring-offset-background" onclick="event.stopPropagation()">
                                 <span class="material-symbols-outlined text-[18px]">shopping_cart</span>
                                 Comprar
                             </a>
                         </div>
                     </div>
                 `;
+
+                card.addEventListener('click', () => openProductModal(product));
                 productGrid.appendChild(card);
             });
         } else {
@@ -86,6 +116,20 @@ document.addEventListener('DOMContentLoaded', () => {
             const isHidden = mobileMenu.classList.toggle('hidden');
             mobileMenuBtn.setAttribute('aria-expanded', !isHidden);
             mobileMenuBtn.querySelector('.material-symbols-outlined').textContent = isHidden ? 'menu' : 'close';
+        });
+    }
+
+    const closeModalBtn = document.getElementById('close-modal');
+    if (closeModalBtn) {
+        closeModalBtn.addEventListener('click', closeProductModal);
+    }
+
+    const modalOverlay = document.getElementById('product-modal');
+    if (modalOverlay) {
+        modalOverlay.addEventListener('click', (e) => {
+            if (e.target === modalOverlay) {
+                closeProductModal();
+            }
         });
     }
 });

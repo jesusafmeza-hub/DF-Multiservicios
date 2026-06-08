@@ -4,7 +4,7 @@
     "original_price": 625.0,
     "price_with_margin": 699.0,
     "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-6700-de-34ghz-16gb-de-ram-256gb-ssd-geforce-gtx-750ti-4gb-preto/54911/727599.jpg",
-    "category": "Almacenamiento",
+    "category": "PCs Armadas",
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
@@ -68,7 +68,7 @@
     "original_price": 4399.0,
     "price_with_margin": 5254.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-dell-precision-7780-intel-core-i9-13950hx-tela-full-hd-173-128gb-de-ram-4tb-ssd-geforce-rtx5000a-16gb-win11-pro-cinza-ingles/57875/732559.jpg",
-    "category": "Almacenamiento",
+    "category": "Notebooks",
     "specs": "128GB de RAM / 4TB SSD / GeForce RTX5000A 16GB / Win11 Pro - Gris (Inglés)"
   },
   {
@@ -84,7 +84,7 @@
     "original_price": 483.0,
     "price_with_margin": 562.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-acer-gadget-e10-etbook-yoga-cwi557-intel-core-i3-1315u-tela-touch-25k-134-8gb-de-ram-256gb-ssd-win11-cinza-espanhol-portugues/57717/732685.jpg",
-    "category": "Almacenamiento",
+    "category": "Notebooks",
     "specs": "8GB de RAM / 256GB SSD / Win11 - Gris (Español / Portugues)"
   },
   {
@@ -291,7 +291,7 @@
     "name": "Apple Iphone 16 Pro Mym93Ll A A3083 128Gb Swap Grade A Black Titanium Americano",
     "original_price": 860.0,
     "price_with_margin": 860.0,
-    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-16-pro-mym93lla-a3083-128gb-swap-grade-a-black-titanium-americano/58874/737676.jpg",
+    "image": "https://cdn.visaovip.com/img/prod/apple-iphone-16-pro-mym93lla-a3083-128gb-swap-grade-a-black-titanium-americano/58874/73 laT676.jpg",
     "category": "Dispositivos Apple",
     "specs": "Apple Iphone 16 Pro Mym93Ll A A3083 128Gb Swap Grade A Black Titanium Americano"
   },
@@ -304,7 +304,7 @@
     "specs": "Cel Apple Iphone 16 Pro Max Myw33Ll A 256Gb Black Titanium A3084 Swap A Oem"
   },
   {
-    "name": "Apple Iphone 17 Pro Max Mfxg4Ll A A3257 256Gb Esim Silver",
+    "name": "Apple Iphone 17 Pro Max Mfxg4Ll A A3257 25 laGb Esim Silver",
     "original_price": 1495.0,
     "price_with_margin": 1495.0,
     "image": "https://cdn.visaovip.com/img/prod/apple-iphone-17-pro-max-mfxg4lla-a3257-256gb-esim-silver/54335/719028.jpg",
@@ -318,5 +318,101 @@
     "image": "https://cdn.visaovip.com/img/prod/roteador-starlink-standard-kit-tri-band-wi-fi-6-uta232utr-232/47536/672617.jpg",
     "category": "Periféricos",
     "specs": "Router Starlink Standard Kit Tri Band Wi Fi 6 Uta232 Utr 232"
+  },
+  {
+    "name": "SSD Patriot 256GB P210 2.5\" SATA 3 - P210S256G25",
+    "original_price": 57.0,
+    "price_with_margin": 57.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-patriot-256gb-p210-25-sata-3-p210s256g25/25862/577298.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Patriot 256GB P210 2.5\" SATA 3 - P210S256G25"
+  },
+  {
+    "name": "SSD Patriot M.2 256GB P300 NVMe - P300P256GM28",
+    "original_price": 65.0,
+    "price_with_margin": 65.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-patriot-m2-256gb-p300-nvme-p300p256gm28/24091/577390.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Patriot M.2 2 la56GB P300 NVMe - P300P256GM28"
+  },
+  {
+    "name": "SSD Western Digital 240GB Green 2.5\" SATA 3 - WDS240G3G0A",
+    "original_price": 67.0,
+    "price_with_margin": 67.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-western-digital-240gb-green-25-sata-3-wds240g3g0a/34091/552189.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Western Digital 240GB Green 2.5\" SATA 3 - WDS240G3G0A"
+  },
+  {
+    "name": "SSD Kingston 480GB 2.5\" SATA 3 - SA400S37/480G",
+    "original_price": 88.0,
+    "price_with_margin": 88.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-kingston-480gb-25-sata-3-sa400s37480g/23434/548478.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Kingston 480GB 2.5\" SATA 3 - SA400S37/480G"
+  },
+  {
+    "name": "SSD Crucial 500GB BX500 2.5\" SATA 3 - CT500BX500SSD1",
+    "original_price": 95.0,
+    "price_with_margin": 95.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-crucial-500gb-bx500-25-sata-3-ct500bx500ssd1/35053/556749.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Crucial 500GB BX500 2.5\" SATA 3 - CT500BX500SSD1"
+  },
+  {
+    "name": "SSD Patriot M.2 512GB P320 NVMe - P320P512GM28",
+    "original_price": 100.0,
+    "price_with_margin": 100.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-patriot-m2-512gb-p320-nvme-p320p512gm28/48470/684858.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Patriot M.2 512GB P320 NVMe - P320P512GM28"
+  },
+  {
+    "name": "SSD Kingston 960GB 2.5\" SATA 3 - SA400S37/960G",
+    "original_price": 122.0,
+    "price_with_margin": 122.0,
+    "image": "https://cdn.visaovip.com/img/prod/ssd-kingston-960gb-25-sata-3-sa400s37960g/25195/548474.jpg",
+    "category": "Almacenamiento",
+    "specs": "SSD Kingston 960GB 2.5\" SATA 3 - SA400S37/960G"
+  },
+  {
+    "name": "Teclado Macrovip MV-K801UB-SP USB / Español - Negro",
+    "original_price": 7.0,
+    "price_with_margin": 7.0,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-macrovip-mv-k801ub-sp-usb-espanhol-preto/55072/722150.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Macrovip MV-K801UB-SP USB / Español - Negro"
+  },
+  {
+    "name": "Teclado Gamer Mecánico Satellite AK-892 USB / RGB / Español - Negro",
+    "original_price": 11.0,
+    "price_with_margin": 11.0,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-satellite-ak-892-usb-rgb-espanhol-preto/47489/671494.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Mecánico Satellite AK-892 USB / RGB / Español - Negro"
+  },
+  {
+    "name": "Teclado + Mouse Satellite AK-726G Wireless / Español - Negro",
+    "original_price": 17.0,
+    "price_with_margin": 17.0,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-mouse-satellite-ak-726g-wireless-espanhol-preto/21174/564641.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado + Mouse Satellite AK-726G Wireless / Español - Negro"
+  },
+  {
+    "name": "Teclado Gamer Mecánico Satellite GK-502 USB / RGB / Español - Negro",
+    "original_price": 27.0,
+    "price_with_margin": 27.0,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-satellite-gk-502-usb-rgb-espanhol-preto/38032/571242.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Mecánico Satellite GK-502 USB / RGB / Español - Negro"
+  },
+  {
+    "name": "Kit Gamer Satellite GK-53 Teclado + Mouse + Mousepad + Speaker + Auricular / Portugués - Negro",
+    "original_price": 38.0,
+    "price_with_margin": 38.0,
+    "image": "https://cdn.visaovip.com/img/prod/kit-gamer-satellite-gk-53-teclado-mouse-mousepad-speaker-fone-portugues-preto/46133/654286.jpg",
+    "category": "Periféricos",
+    "specs": "Kit Gamer Satellite GK-53 Teclado + Mouse + Mousepad + Speaker + Auricular / Portugués - Negro"
   }
 ]
