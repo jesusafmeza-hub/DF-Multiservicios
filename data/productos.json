@@ -8,22 +8,6 @@
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
-    "name": "TV SMART QLED  75\" SAMSUNG QN75Q8FAAP 4K UHD/HDR10/HDMI/USB/WIFI/BT/ISDB-T/LAN/TIZEN/BIVOLT PRETO",
-    "original_price": 880.0,
-    "price_with_margin": 1038.0,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-qled-75-samsung-qn75q8faap-4k-uhdhdr10hdmiusbwifibtisdb-tlantizenbivolt-preto/58996/738156.jpg",
-    "category": "Otros",
-    "specs": "TV SMART QLED  75\" SAMSUNG QN75Q8FAAP 4K UHD/HDR10/HDMI/USB/WIFI/BT/ISDB-T/LAN/TIZEN/BIVOLT PRETO"
-  },
-  {
-    "name": "TV SMART QLED 85\" SAMSUNG QN85Q7FAAG 4K UHD/HDR10/HDMI/USB/WIFI/BT/ISDB-T/LAN/TIZEN/BIVOLT PRETO",
-    "original_price": 1299.0,
-    "price_with_margin": 1522.8,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-qled-85-samsung-qn85q7faag-4k-uhdhdr10hdmiusbwifibtisdb-tlantizenbivolt-preto/58994/738160.jpg",
-    "category": "Otros",
-    "specs": "TV SMART QLED 85\" SAMSUNG QN85Q7FAAG 4K UHD/HDR10/HDMI/USB/WIFI/BT/ISDB-T/LAN/TIZEN/BIVOLT PRETO"
-  },
-  {
     "name": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C",
     "original_price": 210.0,
     "price_with_margin": 223.2,
@@ -94,6 +78,22 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gt730-v2-ddr3-low-profile-mv-gt730lp4gd3v2/58189/734164.jpg",
     "category": "Componentes",
     "specs": "4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2"
+  },
+  {
+    "name": "Placa de Video Macrovip 4GB Radeon R7-240 DDR3 - MV-R72404GD3",
+    "original_price": 47.0,
+    "price_with_margin": 59.99,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
+    "category": "Componentes",
+    "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
+  },
+  {
+    "name": "Tablet Xiaomi Redmi Pad 2 8GB de RAM / 256GB / Pantalla 11\" / nanoSIM LTE - Sky Azul (Índia)",
+    "original_price": 201.75,
+    "price_with_margin": 239.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-redmi-pad-2-8gb-de-ram-256gb-tela-11-nanosim-lte-sky-azul-india/58133/733669.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB / Pantalla 11\" / nanoSIM LTE - Sky Azul (Índia)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
