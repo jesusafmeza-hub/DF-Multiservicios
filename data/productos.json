@@ -8,14 +8,6 @@
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
-    "name": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C",
-    "original_price": 210.0,
-    "price_with_margin": 223.2,
-    "image": "https://cdn.visaovip.com/img/prod/leitor-de-codigo-de-barras-zebra-ds2278-1d-2d-usb-c/58766/737286.jpg",
-    "category": "Otros",
-    "specs": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C"
-  },
-  {
     "name": "Mini PC Kamrui Pinova P2 Intel Core i5 12600H de 2.5GHz / 16GB de RAM / 512GB SSD / Win11Pro - Plata",
     "original_price": 510.0,
     "price_with_margin": 582.0,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-redmi-pad-2-8gb-de-ram-256gb-tela-11-nanosim-lte-sky-azul-india/58133/733669.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 11\" / nanoSIM LTE - Sky Azul (Índia)"
+  },
+  {
+    "name": "Reloj Inteligente QCY Urban GS WA24S9A - Gris",
+    "original_price": 40.0,
+    "price_with_margin": 46.68,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-qcy-urban-gs-wa24s9a-cinza/57941/732893.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente QCY Urban GS WA24S9A - Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
