@@ -80,20 +80,20 @@
     "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
   },
   {
-    "name": "Tablet Xiaomi Redmi Pad 2 8GB de RAM / 256GB / Pantalla 11\" / nanoSIM LTE - Sky Azul (Índia)",
-    "original_price": 201.75,
-    "price_with_margin": 239.88,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-redmi-pad-2-8gb-de-ram-256gb-tela-11-nanosim-lte-sky-azul-india/58133/733669.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 256GB / Pantalla 11\" / nanoSIM LTE - Sky Azul (Índia)"
-  },
-  {
     "name": "Reloj Inteligente QCY Urban GS WA24S9A - Gris",
     "original_price": 40.0,
     "price_with_margin": 46.68,
     "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-qcy-urban-gs-wa24s9a-cinza/57941/732893.jpg",
     "category": "Otros",
     "specs": "Reloj Inteligente QCY Urban GS WA24S9A - Gris"
+  },
+  {
+    "name": "Reloj Inteligente QCY Urban GS WA24S9A - Negro",
+    "original_price": 40.0,
+    "price_with_margin": 46.68,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-qcy-urban-gs-wa24s9a-preto/57940/732889.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente QCY Urban GS WA24S9A - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
