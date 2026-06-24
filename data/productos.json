@@ -8,6 +8,22 @@
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
+    "name": "Monitor Dell SE2426HG 23.8\" Full HD LED 240Hz - Negro",
+    "original_price": 185.0,
+    "price_with_margin": 203.88,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-dell-se2426hg-238-full-hd-led-240hz-preto/58986/738096.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Dell SE2426HG 23.8\" Full HD LED 240Hz - Negro"
+  },
+  {
+    "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD IPS 180Hz / 1Ms - Negro",
+    "original_price": 205.0,
+    "price_with_margin": 226.79999999999998,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-asus-tuf-gaming-vg24vqer-236-full-hd-ips-165hz-1ms-preto/58985/738100.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD IPS 180Hz / 1Ms - Negro"
+  },
+  {
     "name": "Mini PC Kamrui Pinova P2 Intel Core i5 12600H de 2.5GHz / 16GB de RAM / 512GB SSD / Win11Pro - Plata",
     "original_price": 510.0,
     "price_with_margin": 582.0,
@@ -78,22 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
     "category": "Componentes",
     "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
-  },
-  {
-    "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
-    "original_price": 49.0,
-    "price_with_margin": 57.0,
-    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
-    "category": "Otros",
-    "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
-  },
-  {
-    "name": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)",
-    "original_price": 28.0,
-    "price_with_margin": 31.08,
-    "image": "https://cdn.visaovip.com/img/prod/carregador-portatil-xiaomi-pb1067-10000mah-usb-usb-c-67w-ice-azul-bhr08nzgl/57944/733657.jpg",
-    "category": "Notebooks",
-    "specs": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
