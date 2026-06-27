@@ -24,14 +24,6 @@
     "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro"
   },
   {
-    "name": "Mini PC Kamrui Pinova P2 Intel Core i5 12600H de 2.5GHz / 16GB de RAM / 512GB SSD / Win11Pro - Plata",
-    "original_price": 510.0,
-    "price_with_margin": 582.0,
-    "image": "https://cdn.visaovip.com/img/prod/mini-pc-kamrui-pinova-p2-intel-core-i5-12600h-de-25ghz-16gb-de-ram-512gb-ssd-win11pro-prata/58747/737250.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz / 16GB de RAM / 512GB SSD / Win11Pro - Plata"
-  },
-  {
     "name": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco",
     "original_price": 95.0,
     "price_with_margin": 106.8,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
     "category": "Componentes",
     "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
+  },
+  {
+    "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
+    "original_price": 49.0,
+    "price_with_margin": 57.0,
+    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
+    "category": "Otros",
+    "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
