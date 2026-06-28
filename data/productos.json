@@ -1,5 +1,13 @@
 [
   {
+    "name": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)",
+    "original_price": 46.0,
+    "price_with_margin": 52.68,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-headphones-neo-bluetooth-sand-branco-bhr08w2gl/58654/736741.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)"
+  },
+  {
     "name": "PC Montado Gamer Intel Core i7 6700 de 3.4GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro",
     "original_price": 625.0,
     "price_with_margin": 699.0,
@@ -22,6 +30,30 @@
     "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-asus-tuf-gaming-vg24vqer-236-full-hd-va-180hz-1ms-preto/58985/738100.jpg",
     "category": "Periféricos",
     "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro"
+  },
+  {
+    "name": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C",
+    "original_price": 200.0,
+    "price_with_margin": 224.4,
+    "image": "https://cdn.visaovip.com/img/prod/leitor-de-codigo-de-barras-zebra-ds2278-1d-2d-usb-c/58766/737286.jpg",
+    "category": "Otros",
+    "specs": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C"
+  },
+  {
+    "name": "Auricular Xiaomi Headphones Neo / Bluetooth - Obsidian Negro (BHR08W5GL)",
+    "original_price": 46.0,
+    "price_with_margin": 52.68,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-headphones-neo-bluetooth-obsidian-preto-bhr08w5gl/58655/736736.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Headphones Neo / Bluetooth - Obsidian Negro (BHR08W5GL)"
+  },
+  {
+    "name": "Compresor de Aire Xiaomi Mi Portable Electric Mijia Compact - Negro (MJBXCQBQW)",
+    "original_price": 32.0,
+    "price_with_margin": 35.879999999999995,
+    "image": "https://cdn.visaovip.com/img/prod/compressor-de-ar-xiaomi-mi-portable-electric-mijia-compact-preto-mjbxcqbqw/58622/736591.jpg",
+    "category": "Otros",
+    "specs": "Compresor de Aire Xiaomi Mi Portable Electric Mijia Compact - Negro (MJBXCQBQW)"
   },
   {
     "name": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco",
@@ -62,38 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-dual-8gb-radeon-rx580-v2-gddr5-mv-rx5808gd5v2/58192/734212.jpg",
     "category": "Componentes",
     "specs": "8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2"
-  },
-  {
-    "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
-    "original_price": 77.0,
-    "price_with_margin": 90.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
-    "category": "Componentes",
-    "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
-  },
-  {
-    "name": "Placa de Video Macrovip 4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2",
-    "original_price": 37.75,
-    "price_with_margin": 49.99,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gt730-v2-ddr3-low-profile-mv-gt730lp4gd3v2/58189/734164.jpg",
-    "category": "Componentes",
-    "specs": "4GB GeForce GT730 V2 DDR3 - Low Profile MV-GT730LP4GD3V2"
-  },
-  {
-    "name": "Placa de Video Macrovip 4GB Radeon R7-240 DDR3 - MV-R72404GD3",
-    "original_price": 47.0,
-    "price_with_margin": 59.99,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-radeon-r7-240-ddr3-mv-r72404gd3/58188/734200.jpg",
-    "category": "Componentes",
-    "specs": "4GB Radeon R7-240 DDR3 - MV-R72404GD3"
-  },
-  {
-    "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
-    "original_price": 49.0,
-    "price_with_margin": 57.0,
-    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
-    "category": "Otros",
-    "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
