@@ -56,14 +56,6 @@
     "specs": "Compresor de Aire Xiaomi Mi Portable Electric Mijia Compact - Negro (MJBXCQBQW)"
   },
   {
-    "name": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco",
-    "original_price": 95.0,
-    "price_with_margin": 106.8,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-msi-pro-mp243w-e14-238-full-hd-ips-led-144hz-1ms-branco/58462/735536.gif",
-    "category": "Periféricos",
-    "specs": "Monitor MSI Pro MP243W E14 23.8\" Full HD IPS LED 144Hz / 1Ms - Blanco"
-  },
-  {
     "name": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro",
     "original_price": 94.0,
     "price_with_margin": 106.8,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-dual-8gb-radeon-rx580-v2-gddr5-mv-rx5808gd5v2/58192/734212.jpg",
     "category": "Componentes",
     "specs": "8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2"
+  },
+  {
+    "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
+    "original_price": 77.0,
+    "price_with_margin": 90.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
+    "category": "Componentes",
+    "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
