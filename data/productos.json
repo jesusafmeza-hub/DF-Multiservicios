@@ -64,14 +64,6 @@
     "specs": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro"
   },
   {
-    "name": "Placa Madre MSI Pro H810M-E Socket LGA 1851 / DDR5",
-    "original_price": 99.0,
-    "price_with_margin": 112.2,
-    "image": "https://cdn.visaovip.com/img/prod/placa-mae-msi-pro-h810m-e-socket-lga-1851-ddr5/58460/735569.gif",
-    "category": "Componentes",
-    "specs": "DDR5"
-  },
-  {
     "name": "TV Smart Samsung QN55QN85DBG 55\" Ultra HD / 4K / Neo QLED - Negro",
     "original_price": 765.0,
     "price_with_margin": 900.0,
@@ -80,20 +72,28 @@
     "specs": "TV Smart Samsung QN55QN85DBG 55\" Ultra HD / 4K / Neo QLED - Negro"
   },
   {
-    "name": "Placa de Video Macrovip Dual 8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2",
-    "original_price": 123.0,
-    "price_with_margin": 150.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-dual-8gb-radeon-rx580-v2-gddr5-mv-rx5808gd5v2/58192/734212.jpg",
-    "category": "Componentes",
-    "specs": "8GB Radeon RX580 V2 GDDR5 - MV-RX5808GD5V2"
-  },
-  {
     "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
-    "original_price": 77.0,
+    "original_price": 74.0,
     "price_with_margin": 90.0,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
     "category": "Componentes",
     "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
+  },
+  {
+    "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
+    "original_price": 49.0,
+    "price_with_margin": 57.0,
+    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
+    "category": "Otros",
+    "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
+  },
+  {
+    "name": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)",
+    "original_price": 28.0,
+    "price_with_margin": 31.08,
+    "image": "https://cdn.visaovip.com/img/prod/carregador-portatil-xiaomi-pb1067-10000mah-usb-usb-c-67w-ice-azul-bhr08nzgl/57944/733657.jpg",
+    "category": "Notebooks",
+    "specs": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
