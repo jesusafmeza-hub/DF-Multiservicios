@@ -16,6 +16,14 @@
     "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
   },
   {
+    "name": "Mini PC Geekom A7 Max AMD Ryzen 9 7940HS de 4.0GHz / 16GB de RAM / 1TB SSD",
+    "original_price": 725.0,
+    "price_with_margin": 826.5,
+    "image": "https://cdn.visaovip.com/img/prod/mini-pc-geekom-a7-max-amd-ryzen-9-7940hs-de-40ghz-16gb-de-ram-1tb-ssd/59027/738421.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz / 16GB de RAM / 1TB SSD"
+  },
+  {
     "name": "Monitor Dell SE2426HG 23.8\" Full HD LED 240Hz - Negro",
     "original_price": 185.0,
     "price_with_margin": 203.88,
@@ -86,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
     "category": "Otros",
     "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
-  },
-  {
-    "name": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)",
-    "original_price": 28.0,
-    "price_with_margin": 31.08,
-    "image": "https://cdn.visaovip.com/img/prod/carregador-portatil-xiaomi-pb1067-10000mah-usb-usb-c-67w-ice-azul-bhr08nzgl/57944/733657.jpg",
-    "category": "Notebooks",
-    "specs": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
