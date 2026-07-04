@@ -1,21 +1,5 @@
 [
   {
-    "name": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)",
-    "original_price": 46.0,
-    "price_with_margin": 52.68,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-headphones-neo-bluetooth-sand-branco-bhr08w2gl/58654/736741.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)"
-  },
-  {
-    "name": "PC Montado Gamer Intel Core i7 6700 de 3.4GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro",
-    "original_price": 625.0,
-    "price_with_margin": 699.0,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-6700-de-34ghz-16gb-de-ram-256gb-ssd-geforce-gtx-750ti-4gb-preto/54911/727599.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz 16GB de RAM / 256GB SSD / GeForce GTX 750TI 4GB - Negro"
-  },
-  {
     "name": "Mini PC Geekom A7 Max AMD Ryzen 9 7940HS de 4.0GHz / 16GB de RAM / 1TB SSD",
     "original_price": 725.0,
     "price_with_margin": 826.5,
@@ -40,24 +24,8 @@
     "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro"
   },
   {
-    "name": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C",
-    "original_price": 200.0,
-    "price_with_margin": 224.4,
-    "image": "https://cdn.visaovip.com/img/prod/leitor-de-codigo-de-barras-zebra-ds2278-1d-2d-usb-c/58766/737286.jpg",
-    "category": "Otros",
-    "specs": "Lector de Código de Barras Zebra DS2278 1D / 2D / USB-C"
-  },
-  {
-    "name": "Auricular Xiaomi Headphones Neo / Bluetooth - Obsidian Negro (BHR08W5GL)",
-    "original_price": 46.0,
-    "price_with_margin": 52.68,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-headphones-neo-bluetooth-obsidian-preto-bhr08w5gl/58655/736736.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Xiaomi Headphones Neo / Bluetooth - Obsidian Negro (BHR08W5GL)"
-  },
-  {
     "name": "Compresor de Aire Xiaomi Mi Portable Electric Mijia Compact - Negro (MJBXCQBQW)",
-    "original_price": 32.0,
+    "original_price": 31.0,
     "price_with_margin": 35.879999999999995,
     "image": "https://cdn.visaovip.com/img/prod/compressor-de-ar-xiaomi-mi-portable-electric-mijia-compact-preto-mjbxcqbqw/58622/736591.jpg",
     "category": "Otros",
@@ -89,11 +57,35 @@
   },
   {
     "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
-    "original_price": 49.0,
+    "original_price": 48.0,
     "price_with_margin": 57.0,
     "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
     "category": "Otros",
     "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
+  },
+  {
+    "name": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)",
+    "original_price": 27.0,
+    "price_with_margin": 31.08,
+    "image": "https://cdn.visaovip.com/img/prod/carregador-portatil-xiaomi-pb1067-10000mah-usb-usb-c-67w-ice-azul-bhr08nzgl/57944/733657.jpg",
+    "category": "Notebooks",
+    "specs": "Cargador Portátil Xiaomi PB1067 10000MAH / USB / USB-C / 67W - Ice Azul (BHR08NZGL)"
+  },
+  {
+    "name": "Reloj Inteligente QCY Urban GS WA24S9A - Gris",
+    "original_price": 40.0,
+    "price_with_margin": 46.68,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-qcy-urban-gs-wa24s9a-cinza/57941/732893.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente QCY Urban GS WA24S9A - Gris"
+  },
+  {
+    "name": "Aspirador Samsung Powerbot-E VR5000 Wi-Fi / Bivolt - Negro (VR05R5050WK)",
+    "original_price": 145.0,
+    "price_with_margin": 165.48,
+    "image": "https://cdn.visaovip.com/img/prod/aspirador-samsung-powerbot-e-vr5000-wi-fi-bivolt-preto-vr05r5050wk/57727/732211.jpg",
+    "category": "Otros",
+    "specs": "Aspirador Samsung Powerbot-E VR5000 Wi-Fi / Bivolt - Negro (VR05R5050WK)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
