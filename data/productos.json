@@ -1,19 +1,19 @@
 [
   {
+    "name": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)",
+    "original_price": 44.0,
+    "price_with_margin": 50.279999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-xiaomi-headphones-neo-bluetooth-sand-branco-bhr08w2gl/58654/736741.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Xiaomi Headphones Neo / Bluetooth - Sand Blanco (BHR08W2GL)"
+  },
+  {
     "name": "Mini PC Geekom A7 Max AMD Ryzen 9 7940HS de 4.0GHz / 16GB de RAM / 1TB SSD",
     "original_price": 725.0,
     "price_with_margin": 826.5,
     "image": "https://cdn.visaovip.com/img/prod/mini-pc-geekom-a7-max-amd-ryzen-9-7940hs-de-40ghz-16gb-de-ram-1tb-ssd/59027/738421.jpg",
     "category": "Almacenamiento",
     "specs": "GHz / 16GB de RAM / 1TB SSD"
-  },
-  {
-    "name": "Monitor Dell SE2426HG 23.8\" Full HD LED 240Hz - Negro",
-    "original_price": 185.0,
-    "price_with_margin": 203.88,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-dell-se2426hg-238-full-hd-led-240hz-preto/58986/738096.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Dell SE2426HG 23.8\" Full HD LED 240Hz - Negro"
   },
   {
     "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
@@ -24,12 +24,52 @@
     "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro"
   },
   {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
+    "original_price": 378.0,
+    "price_with_margin": 443.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Gris",
+    "original_price": 378.0,
+    "price_with_margin": 443.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-cinza/58958/738190.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Gris"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Azul",
+    "original_price": 378.0,
+    "price_with_margin": 443.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
+  },
+  {
+    "name": "Reloj Inteligente Haylou Solar Neo 2 HSR01 - Plata",
+    "original_price": 26.0,
+    "price_with_margin": 28.787999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-haylou-solar-neo-2-hsr01-prata/58908/737785.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente Haylou Solar Neo 2 HSR01 - Plata"
+  },
+  {
     "name": "Reloj Inteligente Xiaomi Watch S5 M2530W1 - Negro",
     "original_price": 129.0,
-    "price_with_margin": 152.28,
+    "price_with_margin": 151.08,
     "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-xiaomi-watch-s5-m2530w1-preto/58900/737763.jpg",
     "category": "Otros",
     "specs": "Reloj Inteligente Xiaomi Watch S5 M2530W1 - Negro"
+  },
+  {
+    "name": "Notebook Acer Aspire Go 16 AG16-71PT-95LK Intel Core i9 13900H Pantalla Touch WUXGA 16\" / 32GB de RAM / 1TB SSD / Win11Home - Pure Plata (Inglés)",
+    "original_price": 1089.0,
+    "price_with_margin": 1282.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-acer-aspire-go-16-ag16-71pt-95lk-intel-core-i9-13900h-tela-touch-wuxga-16-32gb-de-ram-1tb-ssd-win11home-pure-prata-ingles/58850/737546.jpg",
+    "category": "Almacenamiento",
+    "specs": "32GB de RAM / 1TB SSD / Win11Home - Pure Plata (Inglés)"
   },
   {
     "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)",
@@ -54,46 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58661/736704.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
-  },
-  {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)",
-    "original_price": 150.0,
-    "price_with_margin": 177.48,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dawn-roxo-anatel/58660/736712.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)"
-  },
-  {
-    "name": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro",
-    "original_price": 94.0,
-    "price_with_margin": 106.8,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-msi-pro-mp242-e14a-238-full-hd-ips-led-144hz-1ms-preto/58461/735532.gif",
-    "category": "Periféricos",
-    "specs": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro"
-  },
-  {
-    "name": "TV Smart Samsung QN55QN85DBG 55\" Ultra HD / 4K / Neo QLED - Negro",
-    "original_price": 765.0,
-    "price_with_margin": 900.0,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-samsung-qn55qn85dbg-55-ultra-hd-4k-neo-qled-preto/58437/735309.jpg",
-    "category": "Otros",
-    "specs": "TV Smart Samsung QN55QN85DBG 55\" Ultra HD / 4K / Neo QLED - Negro"
-  },
-  {
-    "name": "Placa de Vídeo Macrovip 4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2",
-    "original_price": 74.0,
-    "price_with_margin": 90.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-macrovip-4gb-geforce-gtx750ti-v2-gddr5-mv-gtx750ti4gd5v2/58191/734204.jpg",
-    "category": "Componentes",
-    "specs": "4GB GeForce GTX750TI V2 GDDR5 - MV-GTX750TI4GD5V2"
-  },
-  {
-    "name": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco",
-    "original_price": 48.0,
-    "price_with_margin": 57.0,
-    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-imilab-c30-dual-cmsxj111a-indoor-wi-fi-360-3k-alexa-ok-google-branco/58061/738236.jpg",
-    "category": "Otros",
-    "specs": "Cámara de Seguridad Imilab C30 Dual CMSXJ111A Indoor / Wi-Fi / 360° / 3K / Alexa / Ok Google - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
