@@ -16,14 +16,6 @@
     "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070TI 12GB - Eclipse Gris (Inglés)"
   },
   {
-    "name": "Mini PC Geekom A7 Max AMD Ryzen 9 7940HS de 4.0GHz / 16GB de RAM / 1TB SSD",
-    "original_price": 725.0,
-    "price_with_margin": 826.5,
-    "image": "https://cdn.visaovip.com/img/prod/mini-pc-geekom-a7-max-amd-ryzen-9-7940hs-de-40ghz-16gb-de-ram-1tb-ssd/59027/738421.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz / 16GB de RAM / 1TB SSD"
-  },
-  {
     "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
     "original_price": 205.0,
     "price_with_margin": 226.79999999999998,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-256gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58663/736700.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
+  },
+  {
+    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)",
+    "original_price": 167.0,
+    "price_with_margin": 196.68,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-256gb-tela-68-dual-sim-lte-dawn-roxo-anatel/58662/736708.jpg",
+    "category": "Almacenamiento",
+    "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
