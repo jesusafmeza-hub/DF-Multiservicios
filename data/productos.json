@@ -48,14 +48,6 @@
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
   },
   {
-    "name": "Reloj Inteligente Haylou Solar Neo 2 HSR01 - Plata",
-    "original_price": 26.0,
-    "price_with_margin": 28.787999999999997,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-haylou-solar-neo-2-hsr01-prata/58908/737785.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Haylou Solar Neo 2 HSR01 - Plata"
-  },
-  {
     "name": "Reloj Inteligente Xiaomi Watch S5 M2530W1 - Negro",
     "original_price": 129.0,
     "price_with_margin": 149.88,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-256gb-tela-68-dual-sim-lte-dawn-roxo-anatel/58662/736708.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)"
+  },
+  {
+    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)",
+    "original_price": 150.0,
+    "price_with_margin": 177.48,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58661/736704.jpg",
+    "category": "Almacenamiento",
+    "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
