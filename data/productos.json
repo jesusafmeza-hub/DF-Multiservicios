@@ -8,6 +8,22 @@
     "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070TI 12GB - Eclipse Gris (Inglés)"
   },
   {
+    "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)",
+    "original_price": 230.0,
+    "price_with_margin": 271.08,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-golden-coast-anatel/59214/739387.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)"
+  },
+  {
+    "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)",
+    "original_price": 230.0,
+    "price_with_margin": 271.08,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-deepblue-tides-anatel/59213/739394.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)"
+  },
+  {
     "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
     "original_price": 205.0,
     "price_with_margin": 226.79999999999998,
@@ -40,14 +56,6 @@
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
   },
   {
-    "name": "Reloj Inteligente Xiaomi Watch S5 M2530W1 - Negro",
-    "original_price": 129.0,
-    "price_with_margin": 149.88,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-xiaomi-watch-s5-m2530w1-preto/58900/737763.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Xiaomi Watch S5 M2530W1 - Negro"
-  },
-  {
     "name": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV",
     "original_price": 2349.0,
     "price_with_margin": 2544.0,
@@ -56,44 +64,36 @@
     "specs": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV"
   },
   {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)",
-    "original_price": 167.0,
-    "price_with_margin": 196.68,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-256gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58663/736700.jpg",
+    "name": "Celular Realme P4 Power 5G RMX5107 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
+    "original_price": 333.0,
+    "price_with_margin": 391.08,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-8gb-de-ram-256gb-tela-68-dual-sim-5g-power-prata-anatel/58674/736819.jpg",
     "category": "Almacenamiento",
-    "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
+    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
   },
   {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)",
-    "original_price": 167.0,
-    "price_with_margin": 196.68,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-256gb-tela-68-dual-sim-lte-dawn-roxo-anatel/58662/736708.jpg",
+    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
+    "original_price": 445.0,
+    "price_with_margin": 525.4799999999999,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-power-prata-anatel/58672/736824.jpg",
     "category": "Almacenamiento",
-    "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)"
+    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
   },
   {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)",
-    "original_price": 150.0,
-    "price_with_margin": 177.48,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58661/736704.jpg",
+    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)",
+    "original_price": 445.0,
+    "price_with_margin": 525.4799999999999,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-flash-laranja-anatel/58671/736832.jpg",
     "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
+    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)"
   },
   {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)",
-    "original_price": 150.0,
-    "price_with_margin": 177.48,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dawn-roxo-anatel/58660/736712.jpg",
+    "name": "Celular Realme P4 Lite RMX5377 4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Titan Gris (Anatel)",
+    "original_price": 157.0,
+    "price_with_margin": 183.48,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-lite-rmx5377-4gb-de-ram-256gb-tela-68-dual-sim-lte-titan-cinza-anatel/58665/736810.jpg",
     "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dawn Morado (Anatel)"
-  },
-  {
-    "name": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro",
-    "original_price": 94.0,
-    "price_with_margin": 106.8,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-msi-pro-mp242-e14a-238-full-hd-ips-led-144hz-1ms-preto/58461/735532.gif",
-    "category": "Periféricos",
-    "specs": "Monitor MSI Pro MP242 E14A 23.8\" Full HD IPS LED 144Hz / 1Ms - Negro"
+    "specs": "4GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Titan Gris (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
