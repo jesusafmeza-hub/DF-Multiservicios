@@ -16,6 +16,22 @@
     "specs": "16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)"
   },
   {
+    "name": "Tablet Xiaomi Poco Pad C1 6GB de RAM / 128GB / Pantalla 9.7\" - Gris",
+    "original_price": 195.0,
+    "price_with_margin": 227.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-6gb-de-ram-128gb-tela-97-cinza/59320/739858.jpg",
+    "category": "Almacenamiento",
+    "specs": "6GB de RAM / 128GB / Pantalla 9.7\" - Gris"
+  },
+  {
+    "name": "Tablet Xiaomi Poco Pad C1 6GB de RAM / 128GB / Pantalla 9.7\" - Azul",
+    "original_price": 195.0,
+    "price_with_margin": 227.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-6gb-de-ram-128gb-tela-97-azul/59319/739866.jpg",
+    "category": "Almacenamiento",
+    "specs": "6GB de RAM / 128GB / Pantalla 9.7\" - Azul"
+  },
+  {
     "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)",
     "original_price": 230.0,
     "price_with_margin": 271.08,
@@ -32,6 +48,22 @@
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)"
   },
   {
+    "name": "Patineta Eléctrico Blulory ES1023 - Negro / Orange",
+    "original_price": 400.0,
+    "price_with_margin": 453.59999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1023-preto/59207/739568.jpg",
+    "category": "Otros",
+    "specs": "Patineta Eléctrico Blulory ES1023 - Negro / Orange"
+  },
+  {
+    "name": "Patineta Eléctrico Blulory ES1013 - Negro",
+    "original_price": 400.0,
+    "price_with_margin": 438.0,
+    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1013-preto/59206/739571.jpg",
+    "category": "Otros",
+    "specs": "Patineta Eléctrico Blulory ES1013 - Negro"
+  },
+  {
     "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
     "original_price": 205.0,
     "price_with_margin": 226.79999999999998,
@@ -42,7 +74,7 @@
   {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
     "original_price": 378.0,
-    "price_with_margin": 443.87999999999994,
+    "price_with_margin": 431.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
@@ -50,7 +82,7 @@
   {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Gris",
     "original_price": 378.0,
-    "price_with_margin": 443.87999999999994,
+    "price_with_margin": 431.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-cinza/58958/738190.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Gris"
@@ -58,42 +90,10 @@
   {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Azul",
     "original_price": 378.0,
-    "price_with_margin": 443.87999999999994,
+    "price_with_margin": 431.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
-  },
-  {
-    "name": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV",
-    "original_price": 2349.0,
-    "price_with_margin": 2544.0,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-100km958-100-ultra-hd-4k-qd-mini-led-google-tv/58681/736863.jpg",
-    "category": "Otros",
-    "specs": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV"
-  },
-  {
-    "name": "Celular Realme P4 Power 5G RMX5107 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
-    "original_price": 333.0,
-    "price_with_margin": 391.08,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-8gb-de-ram-256gb-tela-68-dual-sim-5g-power-prata-anatel/58674/736819.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
-  },
-  {
-    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
-    "original_price": 445.0,
-    "price_with_margin": 525.4799999999999,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-power-prata-anatel/58672/736824.jpg",
-    "category": "Almacenamiento",
-    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
-  },
-  {
-    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)",
-    "original_price": 445.0,
-    "price_with_margin": 525.4799999999999,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-flash-laranja-anatel/58671/736832.jpg",
-    "category": "Almacenamiento",
-    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
