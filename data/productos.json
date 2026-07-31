@@ -1,13 +1,5 @@
 [
   {
-    "name": "Notebook Gamer ROG Zephyrus G16 GU606AR-ZP/G16_97T Intel Core Ultra 9 386H Pantalla OLED WQXGA 16.0\" / 16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070TI 12GB - Eclipse Gris (Inglés)",
-    "original_price": 3949.0,
-    "price_with_margin": 4722.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-rog-zephyrus-g16-gu606ar-zpg1697t-intel-core-ultra-9-386h-tela-oled-wqxga-160-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5070ti-12gb-eclipse-cinza-ingles/59369/740244.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070TI 12GB - Eclipse Gris (Inglés)"
-  },
-  {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
     "original_price": 1499.0,
     "price_with_margin": 1702.8,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
+  },
+  {
+    "name": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV",
+    "original_price": 2349.0,
+    "price_with_margin": 2544.0,
+    "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-100km958-100-ultra-hd-4k-qd-mini-led-google-tv/58681/736863.jpg",
+    "category": "Otros",
+    "specs": "TV Smart JVC LT-100KM958 100\" Ultra HD / 4K / QD Mini LED / Google TV"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
