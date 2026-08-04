@@ -1,5 +1,21 @@
 [
   {
+    "name": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)",
+    "original_price": 270.0,
+    "price_with_margin": 287.88,
+    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-4-lite-2nd-gen-preto-ddhbc05lq/59878/742033.jpg",
+    "category": "Otros",
+    "specs": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)"
+  },
+  {
+    "name": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)",
+    "original_price": 320.0,
+    "price_with_margin": 347.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-scooter-lite-preto-ddhbc14lq/59877/742028.jpg",
+    "category": "Otros",
+    "specs": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)"
+  },
+  {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
     "original_price": 1499.0,
     "price_with_margin": 1702.8,
@@ -26,7 +42,7 @@
   {
     "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)",
     "original_price": 230.0,
-    "price_with_margin": 271.08,
+    "price_with_margin": 263.88,
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-golden-coast-anatel/59214/739387.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)"
@@ -34,7 +50,7 @@
   {
     "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)",
     "original_price": 230.0,
-    "price_with_margin": 271.08,
+    "price_with_margin": 263.88,
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-deepblue-tides-anatel/59213/739394.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)"
@@ -42,7 +58,7 @@
   {
     "name": "Patineta Eléctrico Blulory ES1023 - Negro / Orange",
     "original_price": 400.0,
-    "price_with_margin": 453.59999999999997,
+    "price_with_margin": 443.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1023-preto/59207/739568.jpg",
     "category": "Otros",
     "specs": "Patineta Eléctrico Blulory ES1023 - Negro / Orange"
@@ -50,10 +66,18 @@
   {
     "name": "Patineta Eléctrico Blulory ES1013 - Negro",
     "original_price": 400.0,
-    "price_with_margin": 438.0,
+    "price_with_margin": 431.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1013-preto/59206/739571.jpg",
     "category": "Otros",
     "specs": "Patineta Eléctrico Blulory ES1013 - Negro"
+  },
+  {
+    "name": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)",
+    "original_price": 559.0,
+    "price_with_margin": 635.88,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-apple-airpods-max-2-bluetooth-blue-mhwm4ama/59173/739250.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)"
   },
   {
     "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
@@ -70,30 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
-  },
-  {
-    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Gris",
-    "original_price": 378.0,
-    "price_with_margin": 425.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-cinza/58958/738190.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Gris"
-  },
-  {
-    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Azul",
-    "original_price": 378.0,
-    "price_with_margin": 425.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
-  },
-  {
-    "name": "Notebook HP 14-DQ6101DX Intel Celeron N150 / Pantalla HD 14.0\" / 4GB de RAM / 128GB UFS / W11 - Plata (Inglés)",
-    "original_price": 232.0,
-    "price_with_margin": 270.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-14-dq6101dx-intel-celeron-n150-tela-hd-140-4gb-de-ram-128gb-ufs-w11-prata-ingles/58757/737204.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB UFS / W11 - Plata (Inglés)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
