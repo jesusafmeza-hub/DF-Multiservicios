@@ -80,20 +80,20 @@
     "specs": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)"
   },
   {
-    "name": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro",
-    "original_price": 205.0,
-    "price_with_margin": 226.79999999999998,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-asus-tuf-gaming-vg24vqer-236-full-hd-va-180hz-1ms-preto/58985/738100.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer ASUS TUF Gaming VG24VQER 23.6\" Full HD VA 180Hz / 1Ms - Negro"
-  },
-  {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
     "original_price": 378.0,
     "price_with_margin": 425.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Gris",
+    "original_price": 378.0,
+    "price_with_margin": 425.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-cinza/58958/738190.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
