@@ -1,5 +1,13 @@
 [
   {
+    "name": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)",
+    "original_price": 250.0,
+    "price_with_margin": 287.88,
+    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-4-lite-2nd-gen-preto-ddhbc05lq/59878/742033.jpg",
+    "category": "Otros",
+    "specs": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)"
+  },
+  {
     "name": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)",
     "original_price": 320.0,
     "price_with_margin": 347.87999999999994,
@@ -86,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
-  },
-  {
-    "name": "Patineta Eléctrico Xiaomi Scooter 6 Ultra - Amarillo (DDHBC01XB)",
-    "original_price": 680.0,
-    "price_with_margin": 791.88,
-    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-scooter-6-ultra-amarelo-ddhbc01xb/58866/737704.jpg",
-    "category": "Otros",
-    "specs": "Patineta Eléctrico Xiaomi Scooter 6 Ultra - Amarillo (DDHBC01XB)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
