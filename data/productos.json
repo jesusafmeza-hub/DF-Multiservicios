@@ -1,5 +1,29 @@
 [
   {
+    "name": "Tarjeta Gráfica Gigabyte Windforce Max OC V2 8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD",
+    "original_price": 388.0,
+    "price_with_margin": 456.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-windforce-max-oc-v2-8gb-geforce-rtx5060-gddr7-gv-n5060wf2max-ocv2-8gd/60385/744300.jpg",
+    "category": "Otros",
+    "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD"
+  },
+  {
+    "name": "Tarjeta Gráfica Gigabyte Eagle Max OC 8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD",
+    "original_price": 399.0,
+    "price_with_margin": 462.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-eagle-max-oc-8gb-geforce-rtx5060-gddr7-gv-n5060eaglemax-oc-8gd/60384/744283.jpg",
+    "category": "Otros",
+    "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD"
+  },
+  {
+    "name": "Tarjeta Gráfica Gigabyte OC Low Profile 8GB GeForce RTX5050 GDDR6 - GV-N5050OC-8GL",
+    "original_price": 337.0,
+    "price_with_margin": 398.4,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-oc-low-profile-8gb-geforce-rtx5050-gddr6-gv-n5050oc-8gl/60383/744289.jpg",
+    "category": "Otros",
+    "specs": "8GB GeForce RTX5050 GDDR6 - GV-N5050OC-8GL"
+  },
+  {
     "name": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)",
     "original_price": 250.0,
     "price_with_margin": 287.88,
@@ -14,6 +38,14 @@
     "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-scooter-lite-preto-ddhbc14lq/59877/742028.jpg",
     "category": "Otros",
     "specs": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)"
+  },
+  {
+    "name": "Placa Madre Gigabyte B860M K Gen5 Socket LGA 1851 / DDR5",
+    "original_price": 98.0,
+    "price_with_margin": 109.2,
+    "image": "https://cdn.visaovip.com/img/prod/placa-mae-gigabyte-b860m-k-gen5-socket-lga-1851-ddr5/59771/741511.jpg",
+    "category": "Componentes",
+    "specs": "DDR5"
   },
   {
     "name": "Cámara de Vigilancia IP Xiaomi C701 Indoor / 4K / Wi-Fi - Blanco (MJSXJ27CM)",
@@ -32,20 +64,20 @@
     "specs": "16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)"
   },
   {
-    "name": "Tablet Xiaomi Poco Pad C1 6GB de RAM / 128GB / Pantalla 9.7\" - Gris",
-    "original_price": 195.0,
-    "price_with_margin": 227.88,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-6gb-de-ram-128gb-tela-97-cinza/59320/739858.jpg",
-    "category": "Almacenamiento",
-    "specs": "6GB de RAM / 128GB / Pantalla 9.7\" - Gris"
-  },
-  {
     "name": "Tablet Xiaomi Poco Pad C1 4GB de RAM / 64GB / Pantalla 9.7\" - Azul",
     "original_price": 165.0,
     "price_with_margin": 187.08,
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-4gb-de-ram-64gb-tela-97-azul/59317/739870.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 64GB / Pantalla 9.7\" - Azul"
+  },
+  {
+    "name": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro",
+    "original_price": 165.0,
+    "price_with_margin": 195.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-xiaomi-g27qi-2026-p27qdb-rggl-27-qhd-2k-ips-200hz-1ms-preto/59265/739779.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro"
   },
   {
     "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)",
@@ -62,38 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-deepblue-tides-anatel/59213/739394.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)"
-  },
-  {
-    "name": "Patineta Eléctrico Blulory ES1023 - Negro / Orange",
-    "original_price": 399.0,
-    "price_with_margin": 443.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1023-preto/59207/739568.jpg",
-    "category": "Otros",
-    "specs": "Patineta Eléctrico Blulory ES1023 - Negro / Orange"
-  },
-  {
-    "name": "Patineta Eléctrico Blulory ES1013 - Negro",
-    "original_price": 399.0,
-    "price_with_margin": 431.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-blulory-es1013-preto/59206/739571.jpg",
-    "category": "Otros",
-    "specs": "Patineta Eléctrico Blulory ES1013 - Negro"
-  },
-  {
-    "name": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)",
-    "original_price": 559.0,
-    "price_with_margin": 635.88,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-apple-airpods-max-2-bluetooth-blue-mhwm4ama/59173/739250.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)"
-  },
-  {
-    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
-    "original_price": 378.0,
-    "price_with_margin": 425.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
