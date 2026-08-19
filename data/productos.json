@@ -16,14 +16,6 @@
     "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD"
   },
   {
-    "name": "Tarjeta Gráfica Gigabyte OC Low Profile 8GB GeForce RTX5050 GDDR6 - GV-N5050OC-8GL",
-    "original_price": 337.0,
-    "price_with_margin": 398.4,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-oc-low-profile-8gb-geforce-rtx5050-gddr6-gv-n5050oc-8gl/60383/744289.jpg",
-    "category": "Otros",
-    "specs": "8GB GeForce RTX5050 GDDR6 - GV-N5050OC-8GL"
-  },
-  {
     "name": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)",
     "original_price": 250.0,
     "price_with_margin": 287.88,
@@ -46,6 +38,22 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-mae-gigabyte-b860m-k-gen5-socket-lga-1851-ddr5/59771/741511.jpg",
     "category": "Componentes",
     "specs": "DDR5"
+  },
+  {
+    "name": "Tablet Lenovo Yoga Plus TB520FU 16GB de RAM / 256GB / Pantalla 12.7\" - Tidal Teal + Teclado + Pencil (ZAEG0044EC)",
+    "original_price": 699.0,
+    "price_with_margin": 815.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-lenovo-yoga-plus-tb520fu-16gb-de-ram-256gb-tela-127-tidal-teal-teclado-pencil-zaeg0044ec/59673/741249.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 256GB / Pantalla 12.7\" - Tidal Teal + Teclado + Pencil (ZAEG0044EC)"
+  },
+  {
+    "name": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)",
+    "original_price": 95.0,
+    "price_with_margin": 91.08,
+    "image": "https://cdn.visaovip.com/img/prod/aspirador-xiaomi-dust-mite-vacuum-cleaner-2-pro-e401hw-220v-branco-bhr08lxeu/59645/741721.jpg",
+    "category": "Otros",
+    "specs": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)"
   },
   {
     "name": "Cámara de Vigilancia IP Xiaomi C701 Indoor / 4K / Wi-Fi - Blanco (MJSXJ27CM)",
@@ -86,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-golden-coast-anatel/59214/739387.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Golden Coast (Anatel)"
-  },
-  {
-    "name": "Celular Realme C100X RMX5366 NFC 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)",
-    "original_price": 220.0,
-    "price_with_margin": 257.88,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100x-rmx5366-nfc-8gb-de-ram-256gb-tela-68-dual-sim-lte-deepblue-tides-anatel/59213/739394.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim LTE - Deepblue Tides (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
