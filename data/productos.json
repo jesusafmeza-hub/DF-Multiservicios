@@ -1,16 +1,24 @@
 [
   {
     "name": "Notebook Gamer Acer Nitro V 15 ANV15-52-92DD Intel Core i9 13900H Pantalla Full HD 15.6\" / 16GB de RAM / 512GB SSD / FreeDOS / GeForce RTX5060 8GB - Obsidian Negro (Inglés)",
-    "original_price": 1390.0,
+    "original_price": 1385.0,
     "price_with_margin": 1654.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-acer-nitro-v-15-anv15-52-92dd-intel-core-i9-13900h-tela-full-hd-156-16gb-de-ram-512gb-ssd-freedos-geforce-rtx5060-8gb-obsidian-preto-ingles/60713/745561.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 512GB SSD / FreeDOS / GeForce RTX5060 8GB - Obsidian Negro (Inglés)"
   },
   {
+    "name": "Tarjeta Gráfica Gigabyte Windforce Max OC V2 8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD",
+    "original_price": 395.0,
+    "price_with_margin": 468.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-windforce-max-oc-v2-8gb-geforce-rtx5060-gddr7-gv-n5060wf2max-ocv2-8gd/60385/744300.jpg",
+    "category": "Otros",
+    "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD"
+  },
+  {
     "name": "Tarjeta Gráfica Gigabyte Eagle Max OC 8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD",
-    "original_price": 399.0,
-    "price_with_margin": 462.0,
+    "original_price": 425.0,
+    "price_with_margin": 492.0,
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-eagle-max-oc-8gb-geforce-rtx5060-gddr7-gv-n5060eaglemax-oc-8gd/60384/744283.jpg",
     "category": "Otros",
     "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD"
@@ -48,14 +56,6 @@
     "specs": "DDR5"
   },
   {
-    "name": "Tablet Lenovo Yoga Plus TB520FU 16GB de RAM / 256GB / Pantalla 12.7\" - Tidal Teal + Teclado + Pencil (ZAEG0044EC)",
-    "original_price": 699.0,
-    "price_with_margin": 815.88,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-lenovo-yoga-plus-tb520fu-16gb-de-ram-256gb-tela-127-tidal-teal-teclado-pencil-zaeg0044ec/59673/741249.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 256GB / Pantalla 12.7\" - Tidal Teal + Teclado + Pencil (ZAEG0044EC)"
-  },
-  {
     "name": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)",
     "original_price": 95.0,
     "price_with_margin": 91.08,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
-    "original_price": 1489.0,
+    "original_price": 1465.0,
     "price_with_margin": 1702.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-acer-swift-16-ai-sf16-71t-70pn-intel-core-ultra-x7-358h-tela-touch-oled-28k-16-16gb-de-ram-1tb-ssd-win11home-basalt-cinza-ingles/59365/740126.jpg",
     "category": "Almacenamiento",
