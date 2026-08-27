@@ -1,21 +1,5 @@
 [
   {
-    "name": "Notebook Gamer Acer Nitro V 15 ANV15-52-92DD Intel Core i9 13900H Pantalla Full HD 15.6\" / 16GB de RAM / 512GB SSD / FreeDOS / GeForce RTX5060 8GB - Obsidian Negro (Inglés)",
-    "original_price": 1385.0,
-    "price_with_margin": 1654.8,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-acer-nitro-v-15-anv15-52-92dd-intel-core-i9-13900h-tela-full-hd-156-16gb-de-ram-512gb-ssd-freedos-geforce-rtx5060-8gb-obsidian-preto-ingles/60713/745561.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 512GB SSD / FreeDOS / GeForce RTX5060 8GB - Obsidian Negro (Inglés)"
-  },
-  {
-    "name": "Tarjeta Gráfica Gigabyte Windforce Max OC V2 8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD",
-    "original_price": 395.0,
-    "price_with_margin": 468.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-windforce-max-oc-v2-8gb-geforce-rtx5060-gddr7-gv-n5060wf2max-ocv2-8gd/60385/744300.jpg",
-    "category": "Otros",
-    "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060WF2MAX OCV2-8GD"
-  },
-  {
     "name": "Tarjeta Gráfica Gigabyte Eagle Max OC 8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD",
     "original_price": 425.0,
     "price_with_margin": 492.0,
@@ -94,6 +78,22 @@
     "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-xiaomi-g27qi-2026-p27qdb-rggl-27-qhd-2k-ips-200hz-1ms-preto/59265/739779.jpg",
     "category": "Periféricos",
     "specs": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro"
+  },
+  {
+    "name": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)",
+    "original_price": 545.0,
+    "price_with_margin": 635.88,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-apple-airpods-max-2-bluetooth-blue-mhwm4ama/59173/739250.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
+    "original_price": 378.0,
+    "price_with_margin": 425.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
