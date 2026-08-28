@@ -1,13 +1,5 @@
 [
   {
-    "name": "Tarjeta Gráfica Gigabyte Eagle Max OC 8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD",
-    "original_price": 425.0,
-    "price_with_margin": 492.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-gigabyte-eagle-max-oc-8gb-geforce-rtx5060-gddr7-gv-n5060eaglemax-oc-8gd/60384/744283.jpg",
-    "category": "Otros",
-    "specs": "8GB GeForce RTX5060 GDDR7 - GV-N5060EAGLEMAX OC-8GD"
-  },
-  {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
     "original_price": 1310.0,
     "price_with_margin": 1534.8,
@@ -24,14 +16,6 @@
     "specs": "Patineta Eléctrico Xiaomi 4 Lite 2nd Gen - Negro (DDHBC05LQ)"
   },
   {
-    "name": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)",
-    "original_price": 320.0,
-    "price_with_margin": 347.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-xiaomi-scooter-lite-preto-ddhbc14lq/59877/742028.jpg",
-    "category": "Otros",
-    "specs": "Patineta Eléctrico Xiaomi Scooter Lite - Negro (DDHBC14LQ)"
-  },
-  {
     "name": "Placa Madre Gigabyte B860M K Gen5 Socket LGA 1851 / DDR5",
     "original_price": 98.0,
     "price_with_margin": 109.2,
@@ -46,14 +30,6 @@
     "image": "https://cdn.visaovip.com/img/prod/aspirador-xiaomi-dust-mite-vacuum-cleaner-2-pro-e401hw-220v-branco-bhr08lxeu/59645/741721.jpg",
     "category": "Otros",
     "specs": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)"
-  },
-  {
-    "name": "Cámara de Vigilancia IP Xiaomi C701 Indoor / 4K / Wi-Fi - Blanco (MJSXJ27CM)",
-    "original_price": 49.0,
-    "price_with_margin": 55.08,
-    "image": "https://cdn.visaovip.com/img/prod/camera-de-seguranca-ip-xiaomi-c701-indoor-4k-wi-fi-branco-mjsxj27cm/59399/741680.jpg",
-    "category": "Otros",
-    "specs": "Cámara de Vigilancia IP Xiaomi C701 Indoor / 4K / Wi-Fi - Blanco (MJSXJ27CM)"
   },
   {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
@@ -81,7 +57,7 @@
   },
   {
     "name": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)",
-    "original_price": 545.0,
+    "original_price": 540.0,
     "price_with_margin": 635.88,
     "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-apple-airpods-max-2-bluetooth-blue-mhwm4ama/59173/739250.jpg",
     "category": "Auriculares",
@@ -94,6 +70,30 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-pine-verde/58959/738108.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Gris",
+    "original_price": 378.0,
+    "price_with_margin": 425.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-cinza/58958/738190.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Gris"
+  },
+  {
+    "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Azul",
+    "original_price": 378.0,
+    "price_with_margin": 425.87999999999994,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-8-8gb-de-ram-128gb-tela-112-azul/58957/738118.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11.2\" - Azul"
+  },
+  {
+    "name": "Notebook Gamer MSI Crosshair A16 HX D8WFKG-090US AMD Ryzen 9 8940HX Pantalla QHD+ 16\" / 16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5060 8GB - Cosmos Gris (Inglés)",
+    "original_price": 1522.0,
+    "price_with_margin": 1794.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-msi-crosshair-a16-hx-d8wfkg-090us-amd-ryzen-9-8940hx-tela-qhd-16-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5060-8gb-cosmos-cinza-ingles/58924/737832.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5060 8GB - Cosmos Gris (Inglés)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
