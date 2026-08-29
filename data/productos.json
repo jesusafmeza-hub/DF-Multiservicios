@@ -56,14 +56,6 @@
     "specs": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro"
   },
   {
-    "name": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)",
-    "original_price": 540.0,
-    "price_with_margin": 635.88,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-apple-airpods-max-2-bluetooth-blue-mhwm4ama/59173/739250.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Apple Airpods Max 2 / Bluetooth - Blue (MHWM4AM/A)"
-  },
-  {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
     "original_price": 378.0,
     "price_with_margin": 425.87999999999994,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-msi-crosshair-a16-hx-d8wfkg-090us-amd-ryzen-9-8940hx-tela-qhd-16-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5060-8gb-cosmos-cinza-ingles/58924/737832.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5060 8GB - Cosmos Gris (Inglés)"
+  },
+  {
+    "name": "Notebook HP Omnibook X Flip AI 14-KB0023DX Intel Core Ultra 7 355 Pantalla Touch 2K 14.0\" / 16GB de RAM / 1TB SSD / Win11Home - Gris (Inglés)",
+    "original_price": 1590.0,
+    "price_with_margin": 1872.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-flip-ai-14-kb0023dx-intel-core-ultra-7-355-tela-touch-2k-140-16gb-de-ram-1tb-ssd-win11home-cinza-ingles/58858/737574.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 1TB SSD / Win11Home - Gris (Inglés)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
