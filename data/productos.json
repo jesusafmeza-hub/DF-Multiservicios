@@ -24,14 +24,6 @@
     "specs": "DDR5"
   },
   {
-    "name": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)",
-    "original_price": 95.0,
-    "price_with_margin": 91.08,
-    "image": "https://cdn.visaovip.com/img/prod/aspirador-xiaomi-dust-mite-vacuum-cleaner-2-pro-e401hw-220v-branco-bhr08lxeu/59645/741721.jpg",
-    "category": "Otros",
-    "specs": "Aspirador Xiaomi Dust Mite Vacuum Cleaner 2 Pro E401HW / 220V - Blanco (BHR08LXEU)"
-  },
-  {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
     "original_price": 1465.0,
     "price_with_margin": 1702.8,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-flip-ai-14-kb0023dx-intel-core-ultra-7-355-tela-touch-2k-140-16gb-de-ram-1tb-ssd-win11home-cinza-ingles/58858/737574.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 1TB SSD / Win11Home - Gris (Inglés)"
+  },
+  {
+    "name": "Celular Realme P4 Power 5G RMX5107 8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
+    "original_price": 333.0,
+    "price_with_margin": 391.08,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-8gb-de-ram-256gb-tela-68-dual-sim-5g-power-prata-anatel/58674/736819.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
