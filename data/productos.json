@@ -40,14 +40,6 @@
     "specs": "4GB de RAM / 64GB / Pantalla 9.7\" - Azul"
   },
   {
-    "name": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro",
-    "original_price": 165.0,
-    "price_with_margin": 195.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-xiaomi-g27qi-2026-p27qdb-rggl-27-qhd-2k-ips-200hz-1ms-preto/59265/739779.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer Xiaomi G27Qi 2026 P27QDB-RGGL 27\" QHD 2K IPS 200Hz / 1Ms - Negro"
-  },
-  {
     "name": "Tablet Xiaomi Pad 8 8GB de RAM / 128GB / Pantalla 11.2\" - Pine Verde",
     "original_price": 378.0,
     "price_with_margin": 425.87999999999994,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-8gb-de-ram-256gb-tela-68-dual-sim-5g-power-prata-anatel/58674/736819.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
+  },
+  {
+    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
+    "original_price": 445.0,
+    "price_with_margin": 525.4799999999999,
+    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-power-prata-anatel/58672/736824.jpg",
+    "category": "Almacenamiento",
+    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
