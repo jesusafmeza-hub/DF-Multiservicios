@@ -16,6 +16,14 @@
     "specs": "DDR5"
   },
   {
+    "name": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro",
+    "original_price": 1490.0,
+    "price_with_margin": 1728.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-bivolt-preto/59748/741821.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro"
+  },
+  {
     "name": "Notebook Acer Swift 16 AI SF16-71T-70PN Intel Core Ultra X7 358H Pantalla Touch OLED 2.8K 16\" / 16GB de RAM / 1TB SSD / Win11Home - Basalt Gris (Inglés)",
     "original_price": 1455.0,
     "price_with_margin": 1702.8,
@@ -30,6 +38,38 @@
     "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-4gb-de-ram-64gb-tela-97-azul/59317/739870.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 64GB / Pantalla 9.7\" - Azul"
+  },
+  {
+    "name": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro",
+    "original_price": 1325.0,
+    "price_with_margin": 1560.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-pro-bivolt-preto/59096/738959.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro"
+  },
+  {
+    "name": "Impresora 3D Creality Halot-Sky 2022 / Bivolt - Gris / Naranja",
+    "original_price": 690.0,
+    "price_with_margin": 792.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-halot-sky-2022-bivolt-cinza-laranja/59093/739004.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Halot-Sky 2022 / Bivolt - Gris / Naranja"
+  },
+  {
+    "name": "Impresora 3D Creality Halot-One Plus / Bivolt - Negro / Azul",
+    "original_price": 390.0,
+    "price_with_margin": 420.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-halot-one-plus-bivolt-preto-azul/59092/738954.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Halot-One Plus / Bivolt - Negro / Azul"
+  },
+  {
+    "name": "Impresora 3D Creality Halot-Max / Bivolt - Negro / Rojo",
+    "original_price": 1590.0,
+    "price_with_margin": 1806.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-halot-max-bivolt-preto-vermelho/59091/739007.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Halot-Max / Bivolt - Negro / Rojo"
   },
   {
     "name": "Notebook Gamer MSI Crosshair A16 HX D8WFKG-090US AMD Ryzen 9 8940HX Pantalla QHD+ 16\" / 16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5060 8GB - Cosmos Gris (Inglés)",
@@ -54,46 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-8gb-de-ram-256gb-tela-68-dual-sim-5g-power-prata-anatel/58674/736819.jpg",
     "category": "Almacenamiento",
     "specs": "8GB de RAM / 256GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
-  },
-  {
-    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)",
-    "original_price": 445.0,
-    "price_with_margin": 525.4799999999999,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-power-prata-anatel/58672/736824.jpg",
-    "category": "Almacenamiento",
-    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Power Plata (Anatel)"
-  },
-  {
-    "name": "Celular Realme P4 Power 5G RMX5107 12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)",
-    "original_price": 445.0,
-    "price_with_margin": 525.4799999999999,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-p4-power-5g-rmx5107-12gb-de-ram-512gb-tela-68-dual-sim-5g-flash-laranja-anatel/58671/736832.jpg",
-    "category": "Almacenamiento",
-    "specs": "12GB de RAM / 512GB / Pantalla 6.8\" / Dual Sim 5G - Flash Naranja (Anatel)"
-  },
-  {
-    "name": "Celular Realme C100I RMX5377 NFC 4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)",
-    "original_price": 150.0,
-    "price_with_margin": 177.48,
-    "image": "https://cdn.visaovip.com/img/prod/celular-realme-c100i-rmx5377-nfc-4gb-de-ram-128gb-tela-68-dual-sim-lte-dusk-cinza-anatel/58661/736704.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB / Pantalla 6.8\" / Dual Sim LTE - Dusk Gris (Anatel)"
-  },
-  {
-    "name": "Monitor Xiaomi Mi A24I 2026 P24FDA-RAGL 23.8\" Full HD LED 144Hz / 6Ms - Negro",
-    "original_price": 85.0,
-    "price_with_margin": 91.2,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-xiaomi-mi-a24i-2026-p24fda-ragl-238-full-hd-led-144hz-6ms-preto/58166/735173.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Xiaomi Mi A24I 2026 P24FDA-RAGL 23.8\" Full HD LED 144Hz / 6Ms - Negro"
-  },
-  {
-    "name": "Notebook HP Omnibook X 16-BG0013DX Intel Core Ultra 7 358H Pantalla Touch OLED 2K 16.0\" / 32GB de RAM / 1TB SSD / Win11 - Gris (Inglés)",
-    "original_price": 2139.0,
-    "price_with_margin": 2518.7999999999997,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-16-bg0013dx-intel-core-ultra-7-358h-tela-touch-oled-2k-160-32gb-de-ram-1tb-ssd-win11-cinza-ingles/58022/733301.jpg",
-    "category": "Almacenamiento",
-    "specs": "32GB de RAM / 1TB SSD / Win11 - Gris (Inglés)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
