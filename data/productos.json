@@ -8,6 +8,22 @@
     "specs": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro"
   },
   {
+    "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 470.0,
+    "price_with_margin": 534.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-elitebook-x360-1040-g8-intel-core-i7-1165g7-tela-touch-full-hd-14-16gb-de-ram-512-ssd-prata-ingles-reacondicionado/60614/744734.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / Slot SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 420.0,
+    "price_with_margin": 478.79999999999995,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-elitebook-x360-1040-g8-intel-core-i7-1165g7-tela-touch-full-hd-14-16gb-de-ram-slot-ssd-prata-ingles-reacondicionado/60612/744765.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / Slot SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
     "original_price": 1299.0,
     "price_with_margin": 1534.8,
@@ -78,22 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-hye-x10pro-11-preto/59307/740571.jpg",
     "category": "Otros",
     "specs": "Patineta Elétrico HYE X10PRO 11\" - Negro"
-  },
-  {
-    "name": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro",
-    "original_price": 1325.0,
-    "price_with_margin": 1560.0,
-    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-pro-bivolt-preto/59096/738959.jpg",
-    "category": "Otros",
-    "specs": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro"
-  },
-  {
-    "name": "Impresora 3D Creality Halot-Sky 2022 / Bivolt - Gris / Naranja",
-    "original_price": 690.0,
-    "price_with_margin": 792.0,
-    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-halot-sky-2022-bivolt-cinza-laranja/59093/739004.jpg",
-    "category": "Otros",
-    "specs": "Impresora 3D Creality Halot-Sky 2022 / Bivolt - Gris / Naranja"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
