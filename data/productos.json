@@ -80,20 +80,20 @@
     "specs": "Impresora Fotográfica Epson SureColor SC-P900 / Bivolt - Negro"
   },
   {
-    "name": "Tablet Xiaomi Poco Pad C1 4GB de RAM / 64GB / Pantalla 9.7\" - Azul",
-    "original_price": 165.0,
-    "price_with_margin": 187.08,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-poco-pad-c1-4gb-de-ram-64gb-tela-97-azul/59317/739870.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 64GB / Pantalla 9.7\" - Azul"
-  },
-  {
     "name": "Patineta Elétrico HYE X10PRO 11\" - Negro",
     "original_price": 465.0,
     "price_with_margin": 503.87999999999994,
     "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-hye-x10pro-11-preto/59307/740571.jpg",
     "category": "Otros",
     "specs": "Patineta Elétrico HYE X10PRO 11\" - Negro"
+  },
+  {
+    "name": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro",
+    "original_price": 1325.0,
+    "price_with_margin": 1560.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-pro-bivolt-preto/59096/738959.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Creality Sermoon D3 Pro / Bivolt - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
