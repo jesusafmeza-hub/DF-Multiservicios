@@ -32,12 +32,28 @@
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
   },
   {
-    "name": "Aire Acondicionado Split HYE NAC24BR Kit 24000BTU / 220V / 60Hz / Wi-Fi (R410A)",
-    "original_price": 480.0,
-    "price_with_margin": 551.88,
-    "image": "https://cdn.visaovip.com/img/prod/ar-condicionado-split-hye-nac24br-kit-24000btu-220v-60hz-wi-fi-r410a/60054/743174.jpg",
-    "category": "Otros",
-    "specs": "Aire Acondicionado Split HYE NAC24BR Kit 24000BTU / 220V / 60Hz / Wi-Fi (R410A)"
+    "name": "Celular Motorola G17 XT2623-1 4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa",
+    "original_price": 145.0,
+    "price_with_margin": 167.88,
+    "image": "https://cdn.visaovip.com/img/prod/celular-motorola-g17-xt2623-1-4gb-de-ram-128gb-tela-672-dual-sim-lte-pantone-bordeaux-rosa/60039/742877.jpg",
+    "category": "Almacenamiento",
+    "specs": "4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa"
+  },
+  {
+    "name": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium",
+    "original_price": 58.0,
+    "price_with_margin": 64.67999999999999,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-realme-rma2418-buds-clip-bluetooth-dourado-titanium/59840/741947.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium"
+  },
+  {
+    "name": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Negro Titanium",
+    "original_price": 58.0,
+    "price_with_margin": 64.67999999999999,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-realme-rma2418-buds-clip-bluetooth-preto-titanium/59839/741891.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Negro Titanium"
   },
   {
     "name": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro",
@@ -64,36 +80,20 @@
     "specs": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro"
   },
   {
-    "name": "Impresora Fotográfica Epson SureLab SL-D570 / Bivolt - Blanco",
-    "original_price": 800.0,
-    "price_with_margin": 936.0,
-    "image": "https://cdn.visaovip.com/img/prod/impressora-fotografica-epson-surelab-sl-d570-bivolt-branco/59473/741748.jpg",
+    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco",
+    "original_price": 88.0,
+    "price_with_margin": 99.48,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
     "category": "Otros",
-    "specs": "Impresora Fotográfica Epson SureLab SL-D570 / Bivolt - Blanco"
+    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
   },
   {
-    "name": "Impresora Fotográfica Epson SureColor SC-P900 / Bivolt - Negro",
-    "original_price": 1680.0,
-    "price_with_margin": 1992.0,
-    "image": "https://cdn.visaovip.com/img/prod/impressora-fotografica-epson-surecolor-sc-p900-bivolt-preto/59472/741930.jpg",
+    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris",
+    "original_price": 88.0,
+    "price_with_margin": 99.48,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-rock-cinza/59715/741218.jpg",
     "category": "Otros",
-    "specs": "Impresora Fotográfica Epson SureColor SC-P900 / Bivolt - Negro"
-  },
-  {
-    "name": "Tablet Xiaomi Pad Mini 12GB de RAM / 512GB / Pantalla 8.8\" - Morado",
-    "original_price": 495.0,
-    "price_with_margin": 585.4799999999999,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-xiaomi-pad-mini-12gb-de-ram-512gb-tela-88-roxo/59459/740473.jpg",
-    "category": "Almacenamiento",
-    "specs": "12GB de RAM / 512GB / Pantalla 8.8\" - Morado"
-  },
-  {
-    "name": "Patineta Elétrico HYE X10PRO 11\" - Negro",
-    "original_price": 465.0,
-    "price_with_margin": 503.87999999999994,
-    "image": "https://cdn.visaovip.com/img/prod/patinete-eletrico-hye-x10pro-11-preto/59307/740571.jpg",
-    "category": "Otros",
-    "specs": "Patineta Elétrico HYE X10PRO 11\" - Negro"
+    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
