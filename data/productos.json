@@ -1,8 +1,24 @@
 [
   {
+    "name": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Gris (010-04675-11)",
+    "original_price": 199.0,
+    "price_with_margin": 226.79999999999998,
+    "image": "https://cdn.visaovip.com/img/prod/pulseira-inteligente-garmin-cirqa-smart-band-s-m-cinza-010-04675-11/61131/747670.jpg",
+    "category": "Otros",
+    "specs": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Gris (010-04675-11)"
+  },
+  {
+    "name": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Negro (010-04675-10)",
+    "original_price": 199.0,
+    "price_with_margin": 226.79999999999998,
+    "image": "https://cdn.visaovip.com/img/prod/pulseira-inteligente-garmin-cirqa-smart-band-s-m-preto-010-04675-10/61130/747664.jpg",
+    "category": "Otros",
+    "specs": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Negro (010-04675-10)"
+  },
+  {
     "name": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro",
     "original_price": 125.0,
-    "price_with_margin": 142.79999999999998,
+    "price_with_margin": 137.88,
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-32km1584-32-hd-qled-google-tv-preto/60664/746295.jpg",
     "category": "Otros",
     "specs": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro"
@@ -58,7 +74,7 @@
   {
     "name": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro",
     "original_price": 683.0,
-    "price_with_margin": 766.8,
+    "price_with_margin": 718.8,
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-samsung-qn55qn70fap-55-ultra-hd-4k-neo-qled-preto/59803/741771.jpg",
     "category": "Otros",
     "specs": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro"
@@ -74,26 +90,10 @@
   {
     "name": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro",
     "original_price": 1490.0,
-    "price_with_margin": 1726.8,
+    "price_with_margin": 1714.8,
     "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-bivolt-preto/59748/741821.jpg",
     "category": "Otros",
     "specs": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-rock-cinza/59715/741218.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
