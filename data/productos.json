@@ -1,11 +1,11 @@
 [
   {
-    "name": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Gris (010-04675-11)",
-    "original_price": 199.0,
-    "price_with_margin": 226.79999999999998,
-    "image": "https://cdn.visaovip.com/img/prod/pulseira-inteligente-garmin-cirqa-smart-band-s-m-cinza-010-04675-11/61131/747670.jpg",
-    "category": "Otros",
-    "specs": "Pulsera Inteligente Garmin CIRQA Smart Band S-M - Gris (010-04675-11)"
+    "name": "Tablet Remarkable 2 RM110 1GB de RAM / 8GB / Pantalla 10.3\" - Gris + Pencil (Recondicionado)",
+    "original_price": 299.0,
+    "price_with_margin": 345.59999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-remarkable-2-rm110-1gb-de-ram-8gb-tela-103-cinza-pencil-reacondicionado/61058/747004.jpg",
+    "category": "Almacenamiento",
+    "specs": "1GB de RAM / 8GB / Pantalla 10.3\" - Gris + Pencil (Recondicionado)"
   },
   {
     "name": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro",
@@ -14,6 +14,14 @@
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-32km1584-32-hd-qled-google-tv-preto/60664/746295.jpg",
     "category": "Otros",
     "specs": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro"
+  },
+  {
+    "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / Slot SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 405.0,
+    "price_with_margin": 474.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-elitebook-x360-1040-g8-intel-core-i7-1165g7-tela-touch-full-hd-14-16gb-de-ram-slot-ssd-prata-ingles-reacondicionado/60612/744765.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / Slot SSD - Plata (Inglés) (Recondicionado)"
   },
   {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
@@ -30,6 +38,14 @@
     "image": "https://cdn.visaovip.com/img/prod/celular-motorola-g17-xt2623-1-4gb-de-ram-128gb-tela-672-dual-sim-lte-pantone-bordeaux-rosa/60039/742877.jpg",
     "category": "Almacenamiento",
     "specs": "4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa"
+  },
+  {
+    "name": "Notebook Lenovo ThinkPad X13 Yoga Gen 1 Intel Core i7 10610U Pantalla Touch Full HD 13.3\" / 16GB de RAM / 512GB SSD - Negro (Inglés) (Recondicionado)",
+    "original_price": 365.0,
+    "price_with_margin": 424.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-x13-yoga-gen-1-intel-core-i7-10610u-tela-touch-full-hd-133-16gb-de-ram-512gb-ssd-preto-ingles-reacondicionado/59933/742771.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 512GB SSD - Negro (Inglés) (Recondicionado)"
   },
   {
     "name": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium",
@@ -78,22 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
     "category": "Otros",
     "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-rock-cinza/59715/741218.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris"
-  },
-  {
-    "name": "Silla Gamer Quanta QTSG4 Challenger - Verde",
-    "original_price": 177.0,
-    "price_with_margin": 191.88,
-    "image": "https://cdn.visaovip.com/img/prod/cadeira-gamer-quanta-qtsg4-challenger-verde/59643/742037.jpg",
-    "category": "Otros",
-    "specs": "Silla Gamer Quanta QTSG4 Challenger - Verde"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
