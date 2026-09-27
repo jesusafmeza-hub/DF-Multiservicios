@@ -10,7 +10,7 @@
   {
     "name": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro",
     "original_price": 125.0,
-    "price_with_margin": 137.88,
+    "price_with_margin": 131.88,
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-jvc-lt-32km1584-32-hd-qled-google-tv-preto/60664/746295.jpg",
     "category": "Otros",
     "specs": "TV Smart JVC LT-32KM1584 32\" HD / QLED / Google TV - Negro"
@@ -25,11 +25,19 @@
   },
   {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
-    "original_price": 1299.0,
+    "original_price": 1279.0,
     "price_with_margin": 1534.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
+  },
+  {
+    "name": "Notebook HP Omnibook X Flip 14-KC0023DX AMD Ryzen AI 7 445 Pantalla Touch 2K 14.0\" / 24GB de RAM / 1TB SSD / Win11 - Marrón (Inglés)",
+    "original_price": 1349.0,
+    "price_with_margin": 1558.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-flip-14-kc0023dx-amd-ryzen-ai-7-445-tela-touch-2k-140-24gb-de-ram-1tb-ssd-win11-marrom-ingles/60105/743431.jpg",
+    "category": "Almacenamiento",
+    "specs": "24GB de RAM / 1TB SSD / Win11 - Marrón (Inglés)"
   },
   {
     "name": "Celular Motorola G17 XT2623-1 4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa",
@@ -58,7 +66,7 @@
   {
     "name": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro",
     "original_price": 683.0,
-    "price_with_margin": 718.8,
+    "price_with_margin": 706.8,
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-samsung-qn55qn70fap-55-ultra-hd-4k-neo-qled-preto/59803/741771.jpg",
     "category": "Otros",
     "specs": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro"
@@ -86,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
     "category": "Otros",
     "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-rock-cinza/59715/741218.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
