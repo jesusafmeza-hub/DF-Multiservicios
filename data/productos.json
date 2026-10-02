@@ -1,13 +1,5 @@
 [
   {
-    "name": "Tablet Remarkable 2 RM110 1GB de RAM / 8GB / Pantalla 10.3\" - Gris + Pencil (Recondicionado)",
-    "original_price": 299.0,
-    "price_with_margin": 345.59999999999997,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-remarkable-2-rm110-1gb-de-ram-8gb-tela-103-cinza-pencil-reacondicionado/61058/747004.jpg",
-    "category": "Almacenamiento",
-    "specs": "1GB de RAM / 8GB / Pantalla 10.3\" - Gris + Pencil (Recondicionado)"
-  },
-  {
     "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
     "original_price": 62.9,
     "price_with_margin": 58.8,
@@ -56,6 +48,22 @@
     "specs": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Negro Titanium"
   },
   {
+    "name": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)",
+    "original_price": 615.0,
+    "price_with_margin": 702.0,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-x1-verde-010-02980-01/59816/741636.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)"
+  },
+  {
+    "name": "Reloj Inteligente Garmin Venu X1 - Negro (010-02980-00)",
+    "original_price": 615.0,
+    "price_with_margin": 714.0,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-x1-preto-010-02980-00/59815/741646.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente Garmin Venu X1 - Negro (010-02980-00)"
+  },
+  {
     "name": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro",
     "original_price": 683.0,
     "price_with_margin": 706.8,
@@ -86,14 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
     "category": "Otros",
     "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-rock-cinza/59715/741218.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Rock Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
