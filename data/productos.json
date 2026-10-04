@@ -8,6 +8,14 @@
     "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
   },
   {
+    "name": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne",
+    "original_price": 135.0,
+    "price_with_margin": 150.0,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-live-beam-4-perfect-fit-tws-bluetooth-champagne/60252/743686.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
+  },
+  {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
     "original_price": 1279.0,
     "price_with_margin": 1510.8,
@@ -32,6 +40,38 @@
     "specs": "4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa"
   },
   {
+    "name": "Monitor LG UltraFine Evo 32U990A-S 32\" 6K Nano IPS 60Hz / 5Ms - Gris",
+    "original_price": 1397.0,
+    "price_with_margin": 1608.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-ultrafine-evo-32u990a-s-32-6k-nano-ips-60hz-5ms-cinza/60001/742853.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor LG UltraFine Evo 32U990A-S 32\" 6K Nano IPS 60Hz / 5Ms - Gris"
+  },
+  {
+    "name": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco",
+    "original_price": 879.0,
+    "price_with_margin": 972.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
+    "original_price": 1449.0,
+    "price_with_margin": 1620.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx90sa-b-45-wqhd-oled-curvo-240hz-003ms-preto/59977/744682.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro",
+    "original_price": 1559.0,
+    "price_with_margin": 1806.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx950a-b-45-wuhd-2k-165hz-003ms-preto/59976/742803.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro"
+  },
+  {
     "name": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium",
     "original_price": 58.0,
     "price_with_margin": 64.67999999999999,
@@ -48,52 +88,12 @@
     "specs": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Negro Titanium"
   },
   {
-    "name": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)",
-    "original_price": 615.0,
-    "price_with_margin": 702.0,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-x1-verde-010-02980-01/59816/741636.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)"
-  },
-  {
-    "name": "Reloj Inteligente Garmin Venu X1 - Negro (010-02980-00)",
-    "original_price": 615.0,
-    "price_with_margin": 714.0,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-x1-preto-010-02980-00/59815/741646.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Garmin Venu X1 - Negro (010-02980-00)"
-  },
-  {
-    "name": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro",
-    "original_price": 683.0,
-    "price_with_margin": 706.8,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-samsung-qn55qn70fap-55-ultra-hd-4k-neo-qled-preto/59803/741771.jpg",
-    "category": "Otros",
-    "specs": "TV Smart Samsung QN55QN70FAP 55\" Ultra HD / 4K / Neo QLED - Negro"
-  },
-  {
-    "name": "Placa Madre Gigabyte B860M K Gen5 Socket LGA 1851 / DDR5",
-    "original_price": 98.0,
-    "price_with_margin": 109.2,
-    "image": "https://cdn.visaovip.com/img/prod/placa-mae-gigabyte-b860m-k-gen5-socket-lga-1851-ddr5/59771/741511.jpg",
-    "category": "Componentes",
-    "specs": "DDR5"
-  },
-  {
-    "name": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro",
-    "original_price": 1490.0,
-    "price_with_margin": 1714.8,
-    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-creality-sermoon-d3-bivolt-preto/59748/741821.jpg",
-    "category": "Otros",
-    "specs": "Impresora 3D Creality Sermoon D3 / Bivolt - Negro"
-  },
-  {
-    "name": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco",
-    "original_price": 88.0,
-    "price_with_margin": 99.48,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-realme-watch-s5-rmw2502-sand-branco/59716/741214.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Realme Watch S5 RMW2502 - Sand Blanco"
+    "name": "Auricular Haylou FlowBuds N55 TWS / Bluetooth - Blanco",
+    "original_price": 24.75,
+    "price_with_margin": 26.099999999999998,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-haylou-flowbuds-n55-tws-bluetooth-branco/59821/741698.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Haylou FlowBuds N55 TWS / Bluetooth - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
