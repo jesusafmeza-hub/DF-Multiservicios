@@ -1,5 +1,85 @@
 [
   {
+    "name": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)",
+    "original_price": 20.0,
+    "price_with_margin": 19.5,
+    "image": "https://cdn.visaovip.com/img/prod/mouse-gamer-ajazz-aj179p-mc-nacodexx-wireless-branco-985867/56036/725896.jpg",
+    "category": "Periféricos",
+    "specs": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)"
+  },
+  {
+    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco",
+    "original_price": 925.0,
+    "price_with_margin": 1006.8,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-branco/60815/746224.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco"
+  },
+  {
+    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco + Monitor",
+    "original_price": 1015.0,
+    "price_with_margin": 1114.8,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-branco-monitor/60814/746230.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco + Monitor"
+  },
+  {
+    "name": "PC Montado Gamer Intel Core i7 8700 de 3.2GHz 16GB de RAM / 512GB SSD / GeForce GTX1660S 6GB - Negro + Monitor",
+    "original_price": 730.0,
+    "price_with_margin": 790.8,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-8700-de-32ghz-16gb-de-ram-512gb-ssd-geforce-gtx1660s-6gb-preto-monitor/60812/746045.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce GTX1660S 6GB - Negro + Monitor"
+  },
+  {
+    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro",
+    "original_price": 925.0,
+    "price_with_margin": 1006.8,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-preto/60810/746150.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro"
+  },
+  {
+    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro + Monitor",
+    "original_price": 1015.0,
+    "price_with_margin": 1114.8,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-preto-monitor/60809/746145.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro + Monitor"
+  },
+  {
+    "name": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)",
+    "original_price": 17.25,
+    "price_with_margin": 17.7,
+    "image": "https://cdn.visaovip.com/img/prod/mouse-gamer-ajazz-aj199-nacodexx-wireless-rosa-azul-989315/60691/745192.jpg",
+    "category": "Periféricos",
+    "specs": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)"
+  },
+  {
+    "name": "Teclado Gamer Ajazz AF98 Nacodexx USB / Inglés - Azul (985713)",
+    "original_price": 11.75,
+    "price_with_margin": 12.299999999999999,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-ajazz-af98-nacodexx-usb-ingles-azul-985713/60639/745173.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Ajazz AF98 Nacodexx USB / Inglés - Azul (985713)"
+  },
+  {
+    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)",
+    "original_price": 43.75,
+    "price_with_margin": 43.5,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-rosa-985058/60638/745178.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)"
+  },
+  {
+    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)",
+    "original_price": 36.75,
+    "price_with_margin": 36.6,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-azul-984716/60633/745159.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)"
+  },
+  {
     "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
     "original_price": 62.9,
     "price_with_margin": 58.8,
@@ -8,92 +88,12 @@
     "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
   },
   {
-    "name": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne",
-    "original_price": 135.0,
-    "price_with_margin": 150.0,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-live-beam-4-perfect-fit-tws-bluetooth-champagne/60252/743686.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
-  },
-  {
-    "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
-    "original_price": 1279.0,
-    "price_with_margin": 1510.8,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
+    "name": "PC Montado Intel Core i5 3470 de 3.2GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro",
+    "original_price": 149.0,
+    "price_with_margin": 162.0,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-intel-core-i5-3470-de-32ghz-8gb-de-ram-480gb-ssd-mouse-teclado-preto/60444/744466.jpg",
     "category": "Almacenamiento",
-    "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
-  },
-  {
-    "name": "Notebook HP Omnibook X Flip 14-KC0023DX AMD Ryzen AI 7 445 Pantalla Touch 2K 14.0\" / 24GB de RAM / 1TB SSD / Win11 - Marrón (Inglés)",
-    "original_price": 1299.0,
-    "price_with_margin": 1522.8,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-omnibook-x-flip-14-kc0023dx-amd-ryzen-ai-7-445-tela-touch-2k-140-24gb-de-ram-1tb-ssd-win11-marrom-ingles/60105/743431.jpg",
-    "category": "Almacenamiento",
-    "specs": "24GB de RAM / 1TB SSD / Win11 - Marrón (Inglés)"
-  },
-  {
-    "name": "Celular Motorola G17 XT2623-1 4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa",
-    "original_price": 145.0,
-    "price_with_margin": 167.88,
-    "image": "https://cdn.visaovip.com/img/prod/celular-motorola-g17-xt2623-1-4gb-de-ram-128gb-tela-672-dual-sim-lte-pantone-bordeaux-rosa/60039/742877.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 128GB / Pantalla 6.72\" / Dual Sim LTE - Pantone Bordeaux Rosa"
-  },
-  {
-    "name": "Monitor LG UltraFine Evo 32U990A-S 32\" 6K Nano IPS 60Hz / 5Ms - Gris",
-    "original_price": 1397.0,
-    "price_with_margin": 1608.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-ultrafine-evo-32u990a-s-32-6k-nano-ips-60hz-5ms-cinza/60001/742853.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor LG UltraFine Evo 32U990A-S 32\" 6K Nano IPS 60Hz / 5Ms - Gris"
-  },
-  {
-    "name": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco",
-    "original_price": 879.0,
-    "price_with_margin": 972.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
-    "original_price": 1449.0,
-    "price_with_margin": 1620.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx90sa-b-45-wqhd-oled-curvo-240hz-003ms-preto/59977/744682.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro",
-    "original_price": 1559.0,
-    "price_with_margin": 1806.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx950a-b-45-wuhd-2k-165hz-003ms-preto/59976/742803.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro"
-  },
-  {
-    "name": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium",
-    "original_price": 58.0,
-    "price_with_margin": 64.67999999999999,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-realme-rma2418-buds-clip-bluetooth-dourado-titanium/59840/741947.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Realme RMA2418 Buds Clip / Bluetooth - Dorado Titanium"
-  },
-  {
-    "name": "Auricular Haylou FlowBuds N55 TWS / Bluetooth - Blanco",
-    "original_price": 24.75,
-    "price_with_margin": 26.099999999999998,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-haylou-flowbuds-n55-tws-bluetooth-branco/59821/741698.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular Haylou FlowBuds N55 TWS / Bluetooth - Blanco"
-  },
-  {
-    "name": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)",
-    "original_price": 615.0,
-    "price_with_margin": 702.0,
-    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-x1-verde-010-02980-01/59816/741636.jpg",
-    "category": "Otros",
-    "specs": "Reloj Inteligente Garmin Venu X1 - Verde (010-02980-01)"
+    "specs": "GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
