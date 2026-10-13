@@ -8,6 +8,54 @@
     "specs": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)"
   },
   {
+    "name": "Notebook MSI Prestige 16 AI Evo B1MG-013US Intel Core Ultra 9 185H Pantalla QHD+ 16\" / 16GB de RAM / 1TB SSD / Win11Home - Stellar Gris (Inglés)",
+    "original_price": 899.0,
+    "price_with_margin": 1042.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-msi-prestige-16-ai-evo-b1mg-013us-intel-core-ultra-9-185h-tela-qhd-16-16gb-de-ram-1tb-ssd-win11home-stellar-cinza-ingles/54415/719350.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 1TB SSD / Win11Home - Stellar Gris (Inglés)"
+  },
+  {
+    "name": "Notebook HP Probook 650 G5 Intel Core i5 8265U Pantalla Full HD 15.6\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 380.0,
+    "price_with_margin": 438.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-probook-650-g5-intel-core-i5-8265u-tela-full-hd-156-8gb-de-ram-256gb-ssd-prata-ingles-reacondicionado/61524/749247.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Notebook Dell Precision 3570 Intel Core i7 1265U Pantalla Full HD 15.6\" / 16GB de RAM / 512GB SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 625.0,
+    "price_with_margin": 718.8,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-dell-precision-3570-intel-core-i7-1265u-tela-full-hd-156-16gb-de-ram-512gb-ssd-prata-ingles-reacondicionado/61523/749242.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 512GB SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 345.0,
+    "price_with_margin": 390.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-pro-7-1961-intel-core-i5-1135g7-tela-touch-qhd-123-8gb-de-ram-256gb-ssd-prata-ingles-reacondicionado/61425/748884.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Notebook Microsoft Surface Pro 7 1866 Intel Core i5 1035G4 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)",
+    "original_price": 340.0,
+    "price_with_margin": 378.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-pro-7-1866-intel-core-i5-1035g4-tela-touch-qhd-123-8gb-de-ram-256gb-ssd-preto-ingles-reacondicionado/61424/748889.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Notebook Lenovo Thinkpad X13 Gen 2 Intel Core i5 1135G7 Pantalla Full HD 14\" / 16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)",
+    "original_price": 315.0,
+    "price_with_margin": 366.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-x13-gen-2-intel-core-i5-1135g7-tela-full-hd-133-16gb-de-ram-256gb-ssd-preto-ingles-reacondicionado/61143/747700.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
+  },
+  {
     "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco",
     "original_price": 925.0,
     "price_with_margin": 1006.8,
@@ -22,22 +70,6 @@
     "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-branco-monitor-24/60814/746230.jpg",
     "category": "Almacenamiento",
     "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco + Monitor 24\""
-  },
-  {
-    "name": "PC Montado Gamer Intel Core i7 8700 de 3.2GHz 16GB de RAM / 512GB SSD / GeForce GTX1660S 6GB - Negro + Monitor 24\"",
-    "original_price": 730.0,
-    "price_with_margin": 790.8,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i7-8700-de-32ghz-16gb-de-ram-512gb-ssd-geforce-gtx1660s-6gb-preto-monitor-24/60812/746045.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce GTX1660S 6GB - Negro + Monitor 24\""
-  },
-  {
-    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro",
-    "original_price": 925.0,
-    "price_with_margin": 1006.8,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-preto/60810/746150.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Negro"
   },
   {
     "name": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)",
@@ -62,38 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-rosa-985058/60638/745178.jpg",
     "category": "Periféricos",
     "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)"
-  },
-  {
-    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)",
-    "original_price": 36.75,
-    "price_with_margin": 36.6,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-azul-984716/60633/745159.jpg",
-    "category": "Periféricos",
-    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)"
-  },
-  {
-    "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
-    "original_price": 62.9,
-    "price_with_margin": 58.8,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-redragon-k556gbp-rgb-devarajas-usb-rgb-gray-ingles-preto-cinza/60477/744825.jpg",
-    "category": "Periféricos",
-    "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
-  },
-  {
-    "name": "PC Montado Intel Core i5 3470 de 3.2GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro",
-    "original_price": 149.0,
-    "price_with_margin": 162.0,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-intel-core-i5-3470-de-32ghz-8gb-de-ram-480gb-ssd-mouse-teclado-preto/60444/744466.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro"
-  },
-  {
-    "name": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne",
-    "original_price": 135.0,
-    "price_with_margin": 143.88,
-    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-live-beam-4-perfect-fit-tws-bluetooth-champagne/60252/743686.jpg",
-    "category": "Auriculares",
-    "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
