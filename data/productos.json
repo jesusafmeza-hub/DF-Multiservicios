@@ -24,14 +24,6 @@
     "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
   },
   {
-    "name": "Notebook Dell Precision 3570 Intel Core i7 1265U Pantalla Full HD 15.6\" / 16GB de RAM / 512GB SSD - Plata (Inglés) (Recondicionado)",
-    "original_price": 625.0,
-    "price_with_margin": 718.8,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-dell-precision-3570-intel-core-i7-1265u-tela-full-hd-156-16gb-de-ram-512gb-ssd-prata-ingles-reacondicionado/61523/749242.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 512GB SSD - Plata (Inglés) (Recondicionado)"
-  },
-  {
     "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
     "original_price": 345.0,
     "price_with_margin": 390.0,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-rosa-985058/60638/745178.jpg",
     "category": "Periféricos",
     "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)"
+  },
+  {
+    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)",
+    "original_price": 36.75,
+    "price_with_margin": 36.6,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-azul-984716/60633/745159.jpg",
+    "category": "Periféricos",
+    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
