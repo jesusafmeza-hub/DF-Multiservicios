@@ -48,22 +48,6 @@
     "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
   },
   {
-    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco",
-    "original_price": 925.0,
-    "price_with_margin": 1006.8,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-branco/60815/746224.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco"
-  },
-  {
-    "name": "PC Montado Gamer Intel Core i5 12400 de 2.5GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco + Monitor 24\"",
-    "original_price": 1015.0,
-    "price_with_margin": 1114.8,
-    "image": "https://cdn.visaovip.com/img/prod/pc-montado-gamer-intel-core-i5-12400-de-25ghz-16gb-de-ram-512gb-ssd-geforce-rtx3060-12gb-branco-monitor-24/60814/746230.jpg",
-    "category": "Almacenamiento",
-    "specs": "GHz 16GB de RAM / 512GB SSD / GeForce RTX3060 12GB - Blanco + Monitor 24\""
-  },
-  {
     "name": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)",
     "original_price": 17.25,
     "price_with_margin": 17.7,
@@ -94,6 +78,22 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-azul-984716/60633/745159.jpg",
     "category": "Periféricos",
     "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)"
+  },
+  {
+    "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)",
+    "original_price": 445.0,
+    "price_with_margin": 522.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-elitebook-x360-1040-g8-intel-core-i7-1165g7-tela-touch-full-hd-14-16gb-de-ram-512-ssd-prata-ingles-reacondicionado/60614/744734.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
+    "original_price": 62.9,
+    "price_with_margin": 58.8,
+    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-redragon-k556gbp-rgb-devarajas-usb-rgb-gray-ingles-preto-cinza/60477/744825.jpg",
+    "category": "Periféricos",
+    "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
