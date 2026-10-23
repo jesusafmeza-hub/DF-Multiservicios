@@ -24,14 +24,6 @@
     "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
   },
   {
-    "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
-    "original_price": 345.0,
-    "price_with_margin": 390.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-pro-7-1961-intel-core-i5-1135g7-tela-touch-qhd-123-8gb-de-ram-256gb-ssd-prata-ingles-reacondicionado/61425/748884.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
-  },
-  {
     "name": "Notebook Microsoft Surface Pro 7 1866 Intel Core i5 1035G4 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)",
     "original_price": 340.0,
     "price_with_margin": 378.0,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-redragon-k556gbp-rgb-devarajas-usb-rgb-gray-ingles-preto-cinza/60477/744825.jpg",
     "category": "Periféricos",
     "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
+  },
+  {
+    "name": "PC Montado Intel Core i5 3470 de 3.2GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro",
+    "original_price": 149.0,
+    "price_with_margin": 162.0,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-intel-core-i5-3470-de-32ghz-8gb-de-ram-480gb-ssd-mouse-teclado-preto/60444/744466.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
