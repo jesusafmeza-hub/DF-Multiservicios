@@ -1,21 +1,5 @@
 [
   {
-    "name": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)",
-    "original_price": 20.0,
-    "price_with_margin": 19.5,
-    "image": "https://cdn.visaovip.com/img/prod/mouse-gamer-ajazz-aj179p-mc-nacodexx-wireless-branco-985867/56036/725896.jpg",
-    "category": "Periféricos",
-    "specs": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)"
-  },
-  {
-    "name": "Notebook MSI Prestige 16 AI Evo B1MG-013US Intel Core Ultra 9 185H Pantalla QHD+ 16\" / 16GB de RAM / 1TB SSD / Win11Home - Stellar Gris (Inglés)",
-    "original_price": 895.0,
-    "price_with_margin": 1030.8,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-msi-prestige-16-ai-evo-b1mg-013us-intel-core-ultra-9-185h-tela-qhd-16-16gb-de-ram-1tb-ssd-win11home-stellar-cinza-ingles/54415/719350.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 1TB SSD / Win11Home - Stellar Gris (Inglés)"
-  },
-  {
     "name": "Notebook HP Probook 650 G5 Intel Core i5 8265U Pantalla Full HD 15.6\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
     "original_price": 380.0,
     "price_with_margin": 438.0,
@@ -64,14 +48,6 @@
     "specs": "Teclado Gamer Ajazz AF98 Nacodexx USB / Inglés - Azul (985713)"
   },
   {
-    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)",
-    "original_price": 43.75,
-    "price_with_margin": 43.5,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-rosa-985058/60638/745178.jpg",
-    "category": "Periféricos",
-    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Rosa (985058)"
-  },
-  {
     "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)",
     "original_price": 36.75,
     "price_with_margin": 36.6,
@@ -94,6 +70,30 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-redragon-k556gbp-rgb-devarajas-usb-rgb-gray-ingles-preto-cinza/60477/744825.jpg",
     "category": "Periféricos",
     "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
+  },
+  {
+    "name": "Tablet Blackview Link 8 6GB de RAM / 256GB / Pantalla 12.7\" - Dawn Blue + Pencil / Capa / Mouse / Teclado / Auricular",
+    "original_price": 215.0,
+    "price_with_margin": 251.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-blackview-link-8-6gb-de-ram-256gb-tela-127-dawn-blue-pencil-capa-mouse-teclado-fone/60474/746082.jpg",
+    "category": "Almacenamiento",
+    "specs": "6GB de RAM / 256GB / Pantalla 12.7\" - Dawn Blue + Pencil / Capa / Mouse / Teclado / Auricular"
+  },
+  {
+    "name": "PC Montado Intel Core i5 3470 de 3.2GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro",
+    "original_price": 145.0,
+    "price_with_margin": 162.0,
+    "image": "https://cdn.visaovip.com/img/prod/pc-montado-intel-core-i5-3470-de-32ghz-8gb-de-ram-480gb-ssd-mouse-teclado-preto/60444/744466.jpg",
+    "category": "Almacenamiento",
+    "specs": "GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro"
+  },
+  {
+    "name": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne",
+    "original_price": 135.0,
+    "price_with_margin": 143.88,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-live-beam-4-perfect-fit-tws-bluetooth-champagne/60252/743686.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
