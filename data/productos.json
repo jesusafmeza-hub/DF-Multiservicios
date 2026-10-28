@@ -1,13 +1,5 @@
 [
   {
-    "name": "Notebook HP Probook 650 G5 Intel Core i5 8265U Pantalla Full HD 15.6\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
-    "original_price": 380.0,
-    "price_with_margin": 438.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-probook-650-g5-intel-core-i5-8265u-tela-full-hd-156-8gb-de-ram-256gb-ssd-prata-ingles-reacondicionado/61524/749247.jpg",
-    "category": "Almacenamiento",
-    "specs": "8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)"
-  },
-  {
     "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
     "original_price": 345.0,
     "price_with_margin": 390.0,
@@ -30,30 +22,6 @@
     "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-x13-gen-2-intel-core-i5-1135g7-tela-full-hd-133-16gb-de-ram-256gb-ssd-preto-ingles-reacondicionado/61143/747700.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
-  },
-  {
-    "name": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)",
-    "original_price": 17.25,
-    "price_with_margin": 17.7,
-    "image": "https://cdn.visaovip.com/img/prod/mouse-gamer-ajazz-aj199-nacodexx-wireless-rosa-azul-989315/60691/745192.jpg",
-    "category": "Periféricos",
-    "specs": "Mouse Gamer Ajazz AJ199 Nacodexx Wireless - Rosa / Azul (989315)"
-  },
-  {
-    "name": "Teclado Gamer Ajazz AF98 Nacodexx USB / Inglés - Azul (985713)",
-    "original_price": 11.75,
-    "price_with_margin": 12.299999999999999,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-ajazz-af98-nacodexx-usb-ingles-azul-985713/60639/745173.jpg",
-    "category": "Periféricos",
-    "specs": "Teclado Gamer Ajazz AF98 Nacodexx USB / Inglés - Azul (985713)"
-  },
-  {
-    "name": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)",
-    "original_price": 36.75,
-    "price_with_margin": 36.6,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-magnetico-ajazz-ak680-max-nacodexx-mini-usb-rgb-ingles-azul-984716/60633/745159.jpg",
-    "category": "Periféricos",
-    "specs": "Teclado Gamer Magnético Ajazz AK680 Max Nacodexx Mini USB / RGB / Inglés - Azul (984716)"
   },
   {
     "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)",
@@ -94,6 +62,38 @@
     "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-jbl-live-beam-4-perfect-fit-tws-bluetooth-champagne/60252/743686.jpg",
     "category": "Auriculares",
     "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
+  },
+  {
+    "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
+    "original_price": 1279.0,
+    "price_with_margin": 1494.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
+  },
+  {
+    "name": "Celular Motorola G67 XT2621-1 4GB de RAM / 256GB / Pantalla 6.78\" / Dual Sim 5G - Pantone Nile Lima",
+    "original_price": 224.0,
+    "price_with_margin": 263.88,
+    "image": "https://cdn.visaovip.com/img/prod/celular-motorola-g67-xt2621-1-4gb-de-ram-256gb-tela-678-dual-sim-5g-pantone-nile-lima/60056/742995.jpg",
+    "category": "Almacenamiento",
+    "specs": "4GB de RAM / 256GB / Pantalla 6.78\" / Dual Sim 5G - Pantone Nile Lima"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
+    "original_price": 1645.0,
+    "price_with_margin": 1956.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gs95qe-b-45-wqhd-oled-curvo-240hz-003ms-preto/60003/742841.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
+  },
+  {
+    "name": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco",
+    "original_price": 879.0,
+    "price_with_margin": 970.8,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
