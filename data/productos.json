@@ -24,14 +24,6 @@
     "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
   },
   {
-    "name": "Notebook HP EliteBook X360 1040 G8 Intel Core i7 1165G7 Pantalla Touch Full HD 14\" / 16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)",
-    "original_price": 445.0,
-    "price_with_margin": 522.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-hp-elitebook-x360-1040-g8-intel-core-i7-1165g7-tela-touch-full-hd-14-16gb-de-ram-512-ssd-prata-ingles-reacondicionado/60614/744734.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 512 SSD - Plata (Inglés) (Recondicionado)"
-  },
-  {
     "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
     "original_price": 62.9,
     "price_with_margin": 58.8,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
     "category": "Periféricos",
     "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
+  },
+  {
+    "name": "Monitor LG 32MR50C-B 31.5\" Full HD VA 100Hz / 5Ms - Negro",
+    "original_price": 185.0,
+    "price_with_margin": 204.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-32mr50c-b-315-full-hd-va-100hz-5ms-preto/59999/742939.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor LG 32MR50C-B 31.5\" Full HD VA 100Hz / 5Ms - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
