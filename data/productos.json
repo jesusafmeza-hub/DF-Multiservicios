@@ -1,7 +1,7 @@
 [
   {
     "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
-    "original_price": 345.0,
+    "original_price": 335.0,
     "price_with_margin": 390.0,
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-pro-7-1961-intel-core-i5-1135g7-tela-touch-qhd-123-8gb-de-ram-256gb-ssd-prata-ingles-reacondicionado/61425/748884.jpg",
     "category": "Almacenamiento",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Notebook Microsoft Surface Pro 7 1866 Intel Core i5 1035G4 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)",
-    "original_price": 340.0,
+    "original_price": 320.0,
     "price_with_margin": 378.0,
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-pro-7-1866-intel-core-i5-1035g4-tela-touch-qhd-123-8gb-de-ram-256gb-ssd-preto-ingles-reacondicionado/61424/748889.jpg",
     "category": "Almacenamiento",
@@ -30,14 +30,6 @@
     "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-redragon-k556gbp-rgb-devarajas-usb-rgb-gray-ingles-preto-cinza/60477/744825.jpg",
     "category": "Periféricos",
     "specs": "556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris"
-  },
-  {
-    "name": "Tablet Blackview Link 8 6GB de RAM / 256GB / Pantalla 12.7\" - Dawn Blue + Pencil / Capa / Mouse / Teclado / Auricular",
-    "original_price": 215.0,
-    "price_with_margin": 251.88,
-    "image": "https://cdn.visaovip.com/img/prod/tablet-blackview-link-8-6gb-de-ram-256gb-tela-127-dawn-blue-pencil-capa-mouse-teclado-fone/60474/746082.jpg",
-    "category": "Almacenamiento",
-    "specs": "6GB de RAM / 256GB / Pantalla 12.7\" - Dawn Blue + Pencil / Capa / Mouse / Teclado / Auricular"
   },
   {
     "name": "PC Montado Intel Core i5 3470 de 3.2GHz / 8GB de RAM / 480GB SSD + Mouse / Teclado - Negro",
@@ -64,14 +56,6 @@
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
   },
   {
-    "name": "Celular Motorola G67 XT2621-1 4GB de RAM / 256GB / Pantalla 6.78\" / Dual Sim 5G - Pantone Nile Lima",
-    "original_price": 224.0,
-    "price_with_margin": 263.88,
-    "image": "https://cdn.visaovip.com/img/prod/celular-motorola-g67-xt2621-1-4gb-de-ram-256gb-tela-678-dual-sim-5g-pantone-nile-lima/60056/742995.jpg",
-    "category": "Almacenamiento",
-    "specs": "4GB de RAM / 256GB / Pantalla 6.78\" / Dual Sim 5G - Pantone Nile Lima"
-  },
-  {
     "name": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
     "original_price": 1645.0,
     "price_with_margin": 1956.0,
@@ -94,6 +78,22 @@
     "image": "https://cdn.visaovip.com/img/prod/monitor-lg-32mr50c-b-315-full-hd-va-100hz-5ms-preto/59999/742939.jpg",
     "category": "Periféricos",
     "specs": "Monitor LG 32MR50C-B 31.5\" Full HD VA 100Hz / 5Ms - Negro"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
+    "original_price": 1449.0,
+    "price_with_margin": 1608.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx90sa-b-45-wqhd-oled-curvo-240hz-003ms-preto/59977/744682.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro",
+    "original_price": 1549.0,
+    "price_with_margin": 1800.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx950a-b-45-wuhd-2k-165hz-003ms-preto/59976/742803.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
