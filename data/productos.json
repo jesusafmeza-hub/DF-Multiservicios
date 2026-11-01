@@ -1,5 +1,13 @@
 [
   {
+    "name": "Impresora 3D Bambu Lab H2S EU1 PF003-S 1000mm/s / 220V - Gris",
+    "original_price": 1625.0,
+    "price_with_margin": 1830.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-bambu-lab-h2s-eu1-pf003-s-1000mms-220v-cinza/61487/749085.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Bambu Lab H2S EU1 PF003-S 1000mm/s / 220V - Gris"
+  },
+  {
     "name": "Notebook Microsoft Surface Pro 7+ 1961 Intel Core i5 1135G7 Pantalla Touch QHD+ 12.3\" / 8GB de RAM / 256GB SSD - Plata (Inglés) (Recondicionado)",
     "original_price": 335.0,
     "price_with_margin": 390.0,
@@ -16,12 +24,44 @@
     "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
   },
   {
+    "name": "Impresora 3D Bambu Lab H2S PF003-S LV1 1000mm/s / 110V - Gris",
+    "original_price": 1625.0,
+    "price_with_margin": 1830.0,
+    "image": "https://cdn.visaovip.com/img/prod/impressora-3d-bambu-lab-h2s-pf003-s-lv1-1000mms-110v-cinza/61374/749073.jpg",
+    "category": "Otros",
+    "specs": "Impresora 3D Bambu Lab H2S PF003-S LV1 1000mm/s / 110V - Gris"
+  },
+  {
+    "name": "Taladro Eléctrico Xiaomi Mijia Brushless Cordless Drill 2 MJWSDZ002QW - Negro (BHR08S8GL)",
+    "original_price": 68.0,
+    "price_with_margin": 75.47999999999999,
+    "image": "https://cdn.visaovip.com/img/prod/parafusadeira-eletrica-xiaomi-mijia-brushless-cordless-drill-2-mjwsdz002qw-preto-bhr08s8gl/61245/748205.jpg",
+    "category": "Otros",
+    "specs": "Taladro Eléctrico Xiaomi Mijia Brushless Cordless Drill 2 MJWSDZ002QW - Negro (BHR08S8GL)"
+  },
+  {
     "name": "Notebook Lenovo Thinkpad X13 Gen 2 Intel Core i5 1135G7 Pantalla Full HD 14\" / 16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)",
     "original_price": 315.0,
     "price_with_margin": 358.8,
     "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-x13-gen-2-intel-core-i5-1135g7-tela-full-hd-133-16gb-de-ram-256gb-ssd-preto-ingles-reacondicionado/61143/747700.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Recondicionado)"
+  },
+  {
+    "name": "Auricular Realme RMA2503 Buds Air8 / Bluetooth - Dorado",
+    "original_price": 55.0,
+    "price_with_margin": 59.879999999999995,
+    "image": "https://cdn.visaovip.com/img/prod/fone-de-ouvido-realme-rma2503-buds-air8-bluetooth-dourado/60993/746648.jpg",
+    "category": "Auriculares",
+    "specs": "Auricular Realme RMA2503 Buds Air8 / Bluetooth - Dorado"
+  },
+  {
+    "name": "Tablet Philips T7310 8GB de RAM / 128GB / Pantalla 11\" - Gris",
+    "original_price": 175.0,
+    "price_with_margin": 203.88,
+    "image": "https://cdn.visaovip.com/img/prod/tablet-philips-t7310-8gb-de-ram-128gb-tela-11-cinza/60662/745934.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 128GB / Pantalla 11\" - Gris"
   },
   {
     "name": "Teclado Gamer Mecánico Redragon K556GBP-RGB Devarajas USB / RGB / Gray / Inglés - Negro / Gris",
@@ -54,46 +94,6 @@
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
-    "original_price": 1645.0,
-    "price_with_margin": 1956.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gs95qe-b-45-wqhd-oled-curvo-240hz-003ms-preto/60003/742841.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
-  },
-  {
-    "name": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco",
-    "original_price": 879.0,
-    "price_with_margin": 970.8,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
-  },
-  {
-    "name": "Monitor LG 32MR50C-B 31.5\" Full HD VA 100Hz / 5Ms - Negro",
-    "original_price": 185.0,
-    "price_with_margin": 204.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-32mr50c-b-315-full-hd-va-100hz-5ms-preto/59999/742939.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor LG 32MR50C-B 31.5\" Full HD VA 100Hz / 5Ms - Negro"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
-    "original_price": 1449.0,
-    "price_with_margin": 1608.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx90sa-b-45-wqhd-oled-curvo-240hz-003ms-preto/59977/744682.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GX90SA-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro",
-    "original_price": 1549.0,
-    "price_with_margin": 1800.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gx950a-b-45-wuhd-2k-165hz-003ms-preto/59976/742803.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GX950A-B 45\" WUHD 2K 165Hz / 0.03Ms - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
