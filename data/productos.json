@@ -1,5 +1,13 @@
 [
   {
+    "name": "Reloj Inteligente Garmin Venu 4 / 41mm - Plata / Morado (010-03013-01)",
+    "original_price": 465.0,
+    "price_with_margin": 552.0,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-venu-4-41mm-prata-roxo-010-03013-01/61642/749451.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente Garmin Venu 4 / 41mm - Plata / Morado (010-03013-01)"
+  },
+  {
     "name": "Notebook Gamer ASUS ROG Strix G G814PP-DS94 AMD Ryzen 9 8940HX Pantalla WQXGA 18.0\" / 16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070 8GB - Eclipce Gris (Inglés)",
     "original_price": 2139.0,
     "price_with_margin": 2526.0,
@@ -72,28 +80,20 @@
     "specs": "Auricular JBL Live Beam 4 Perfect Fit TWS / Bluetooth - Champagne"
   },
   {
+    "name": "Reloj Inteligente Garmin Fenix 8 Sapphire Solar / 51mm - Titanium Amarillo (010-02907-21)",
+    "original_price": 925.0,
+    "price_with_margin": 1092.0,
+    "image": "https://cdn.visaovip.com/img/prod/relogio-smartwatch-garmin-fenix-8-sapphire-solar-51mm-titanium-amarelo-010-02907-21/60223/744460.jpg",
+    "category": "Otros",
+    "specs": "Reloj Inteligente Garmin Fenix 8 Sapphire Solar / 51mm - Titanium Amarillo (010-02907-21)"
+  },
+  {
     "name": "Notebook Microsoft Surface Laptop (7th Edition) ZHH-00001 Snapdragon X Elite Pantalla Touch 2.3K 15\" / 16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)",
     "original_price": 1279.0,
     "price_with_margin": 1494.0,
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
-  },
-  {
-    "name": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
-    "original_price": 1645.0,
-    "price_with_margin": 1956.0,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gs95qe-b-45-wqhd-oled-curvo-240hz-003ms-preto/60003/742841.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
-  },
-  {
-    "name": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco",
-    "original_price": 879.0,
-    "price_with_margin": 970.8,
-    "image": "https://cdn.visaovip.com/img/prod/monitor-lg-swing-touch-32u889sa-w-32-4k-ips-5ms-branco/60000/743048.jpg",
-    "category": "Periféricos",
-    "specs": "Monitor LG Swing Touch 32U889SA-W 32\" 4K IPS / 5Ms - Blanco"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
