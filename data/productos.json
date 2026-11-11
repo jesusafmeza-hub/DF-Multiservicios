@@ -8,14 +8,6 @@
     "specs": "Reloj Inteligente Garmin Venu 4 / 41mm - Plata / Morado (010-03013-01)"
   },
   {
-    "name": "Notebook Gamer ASUS ROG Strix G G814PP-DS94 AMD Ryzen 9 8940HX Pantalla WQXGA 18.0\" / 16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070 8GB - Eclipce Gris (Inglés)",
-    "original_price": 2139.0,
-    "price_with_margin": 2526.0,
-    "image": "https://cdn.visaovip.com/img/prod/notebook-gamer-asus-rog-strix-g-g814pp-ds94-amd-ryzen-9-8940hx-tela-wqxga-180-16gb-de-ram-1tb-ssd-win11home-geforce-rtx5070-8gb-eclipce-cinza-ingles/61539/749251.jpg",
-    "category": "Almacenamiento",
-    "specs": "16GB de RAM / 1TB SSD / Win11Home / GeForce RTX5070 8GB - Eclipce Gris (Inglés)"
-  },
-  {
     "name": "Impresora 3D Bambu Lab H2S EU1 PF003-S 1000mm/s / 220V - Gris",
     "original_price": 1625.0,
     "price_with_margin": 1830.0,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/notebook-microsoft-surface-laptop-7th-edition-zhh-00001-snapdragon-x-elite-tela-touch-23k-15-16gb-de-ram-512gb-ssd-win11home-platinum-ingles/60162/743376.jpg",
     "category": "Almacenamiento",
     "specs": "16GB de RAM / 512GB SSD / Win11Home - Platinum (Inglés)"
+  },
+  {
+    "name": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro",
+    "original_price": 1645.0,
+    "price_with_margin": 1956.0,
+    "image": "https://cdn.visaovip.com/img/prod/monitor-gamer-lg-ultragear-45gs95qe-b-45-wqhd-oled-curvo-240hz-003ms-preto/60003/742841.jpg",
+    "category": "Periféricos",
+    "specs": "Monitor Gamer LG UltraGear 45GS95QE-B 45\" WQHD OLED Curvo 240Hz / 0.03Ms - Negro"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
