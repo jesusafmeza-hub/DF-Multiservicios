@@ -24,20 +24,20 @@
     "specs": "Teclado Gamer Razer Tartarus V2 Chroma RGB / USB - Negro"
   },
   {
+    "name": "Aspirador Xiaomi Mi Robot Vacuum S40 Pro OV71GL / Bivolt - Blanco (Reacondicionado)",
+    "original_price": 199.0,
+    "price_with_margin": 215.88,
+    "image": "https://cdn.visaovip.com/img/prod/aspirador-xiaomi-mi-robot-vacuum-s40-pro-ov71gl-bivolt-branco-recondicionado/62592/753461.jpg",
+    "category": "Otros",
+    "specs": "Aspirador Xiaomi Mi Robot Vacuum S40 Pro OV71GL / Bivolt - Blanco (Reacondicionado)"
+  },
+  {
     "name": "Aire Acondicionado Split Conlux 1222060 Titmax Kit 12000BTU / 220V / 60Hz / Wi-Fi (R410A)",
     "original_price": 259.0,
     "price_with_margin": 270.0,
     "image": "https://cdn.visaovip.com/img/prod/ar-condicionado-split-conlux-1222060-titmax-kit-12000btu-220v-60hz-wi-fi-r410a/62570/753351.jpg",
     "category": "Otros",
     "specs": "Aire Acondicionado Split Conlux 1222060 Titmax Kit 12000BTU / 220V / 60Hz / Wi-Fi (R410A)"
-  },
-  {
-    "name": "TV Smart FTX FTX50UHD5V2 50\" Ultra HD / 4K / LED - Negro",
-    "original_price": 280.0,
-    "price_with_margin": 306.0,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-ftx-ftx50uhd5v2-50-ultra-hd-4k-led-preto/62564/753349.jpg",
-    "category": "Otros",
-    "specs": "TV Smart FTX FTX50UHD5V2 50\" Ultra HD / 4K / LED - Negro"
   },
   {
     "name": "TV Smart Quanta QTGTQ365 65\" Ultra HD / 4K / LED - Negro",
@@ -54,14 +54,6 @@
     "image": "https://cdn.visaovip.com/img/prod/tv-smart-quanta-qtgtq355-55-ultra-hd-4k-led-preto/62453/752587.jpg",
     "category": "Otros",
     "specs": "TV Smart Quanta QTGTQ355 55\" Ultra HD / 4K / LED - Negro"
-  },
-  {
-    "name": "TV Smart Quanta QTGTQ350 50\" Ultra HD / 4K / LED - Negro",
-    "original_price": 270.0,
-    "price_with_margin": 306.0,
-    "image": "https://cdn.visaovip.com/img/prod/tv-smart-quanta-qtgtq350-50-ultra-hd-4k-led-preto/62451/752584.jpg",
-    "category": "Otros",
-    "specs": "TV Smart Quanta QTGTQ350 50\" Ultra HD / 4K / LED - Negro"
   },
   {
     "name": "Tarjeta Gráfica PNY Ada Generation 32GB NVIDIA RTX 5000 GDDR6 ECC - VCNRTX5000ADA-PB",
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-24gb-nvidia-rtx-pro-4000-gddr7-ecc-vcnrtxpro4000b-pb/62412/752558.jpg",
     "category": "Otros",
     "specs": "24GB NVIDIA RTX Pro 4000 GDDR7 ECC - VCNRTXPRO4000B-PB"
+  },
+  {
+    "name": "Tarjeta Gráfica PNY Blackwell 72GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B72-PB",
+    "original_price": 10950.0,
+    "price_with_margin": 11940.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-72gb-nvidia-rtx-pro-5000-gddr7-ecc-vcnrtxpro5000b72-pb/62406/752522.jpg",
+    "category": "Otros",
+    "specs": "72GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B72-PB"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
