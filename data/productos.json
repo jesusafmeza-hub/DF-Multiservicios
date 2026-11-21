@@ -24,14 +24,6 @@
     "specs": "Teclado Gamer Razer Tartarus V2 Chroma RGB / USB - Negro"
   },
   {
-    "name": "Aspirador Xiaomi Mi Robot Vacuum S40 Pro OV71GL / Bivolt - Blanco (Reacondicionado)",
-    "original_price": 199.0,
-    "price_with_margin": 215.88,
-    "image": "https://cdn.visaovip.com/img/prod/aspirador-xiaomi-mi-robot-vacuum-s40-pro-ov71gl-bivolt-branco-recondicionado/62592/753461.jpg",
-    "category": "Otros",
-    "specs": "Aspirador Xiaomi Mi Robot Vacuum S40 Pro OV71GL / Bivolt - Blanco (Reacondicionado)"
-  },
-  {
     "name": "Aire Acondicionado Split Conlux 1222060 Titmax Kit 12000BTU / 220V / 60Hz / Wi-Fi (R410A)",
     "original_price": 259.0,
     "price_with_margin": 270.0,
@@ -94,6 +86,14 @@
     "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-72gb-nvidia-rtx-pro-5000-gddr7-ecc-vcnrtxpro5000b72-pb/62406/752522.jpg",
     "category": "Otros",
     "specs": "72GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B72-PB"
+  },
+  {
+    "name": "Tarjeta Gráfica PNY Blackwell 48GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B-PB",
+    "original_price": 9900.0,
+    "price_with_margin": 10920.0,
+    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-48gb-nvidia-rtx-pro-5000-gddr7-ecc-vcnrtxpro5000b-pb/62405/752526.jpg",
+    "category": "Otros",
+    "specs": "48GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B-PB"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
