@@ -16,6 +16,14 @@
     "specs": "Mouse Gamer Ajazz AJ179P MC Nacodexx Wireless - Blanco (985867)"
   },
   {
+    "name": "Aspiradora Tp-Link Robot Vacuum-mop Cleaner Tapo RV10 - Blanco",
+    "original_price": 110.0,
+    "price_with_margin": 114.0,
+    "image": "https://cdn.visaovip.com/img/prod/aspirador-tp-link-robot-vacuum-mop-cleaner-tapo-rv10-branco/43426/612505.jpg",
+    "category": "Otros",
+    "specs": "Aspiradora Tp-Link Robot Vacuum-mop Cleaner Tapo RV10 - Blanco"
+  },
+  {
     "name": "Teclado Gamer Razer Tartarus V2 Chroma RGB / USB - Negro",
     "original_price": 78.8,
     "price_with_margin": 80.39999999999999,
@@ -24,76 +32,68 @@
     "specs": "Teclado Gamer Razer Tartarus V2 Chroma RGB / USB - Negro"
   },
   {
-    "name": "Aire Acondicionado Split Conlux 1222060 Titmax Kit 12000BTU / 220V / 60Hz / Wi-Fi (R410A)",
-    "original_price": 259.0,
+    "name": "Notebook Lenovo ThinkPad L14 Gen 1 Intel Core i5 10310U Pantalla Full HD 14\" 8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 239.0,
     "price_with_margin": 270.0,
-    "image": "https://cdn.visaovip.com/img/prod/ar-condicionado-split-conlux-1222060-titmax-kit-12000btu-220v-60hz-wi-fi-r410a/62570/753351.jpg",
-    "category": "Otros",
-    "specs": "Aire Acondicionado Split Conlux 1222060 Titmax Kit 12000BTU / 220V / 60Hz / Wi-Fi (R410A)"
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-l14-gen-1-intel-core-i5-10310u-tela-full-hd-14-8gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62662/753719.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Ada Generation 32GB NVIDIA RTX 5000 GDDR6 ECC - VCNRTX5000ADA-PB",
-    "original_price": 5100.0,
-    "price_with_margin": 5802.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-ada-generation-32gb-nvidia-rtx-5000-gddr6-ecc-vcnrtx5000ada-pb/62417/752546.jpg",
-    "category": "Otros",
-    "specs": "32GB NVIDIA RTX 5000 GDDR6 ECC - VCNRTX5000ADA-PB"
+    "name": "Notebook Lenovo ThinkPad L14 Gen 1 Intel Core i5 10210U Pantalla Full HD 14\" 8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 239.0,
+    "price_with_margin": 270.0,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-l14-gen-1-intel-core-i5-10210u-tela-full-hd-14-8gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62661/753711.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Blackwell Max-Q 96GB NVIDIA RTX Pro 6000 GDDR7 ECC - VCNRTXPRO6000BQ-PB",
-    "original_price": 17500.0,
-    "price_with_margin": 19524.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-max-q-96gb-nvidia-rtx-pro-6000-gddr7-ecc-vcnrtxpro6000bq-pb/62416/752518.jpg",
-    "category": "Otros",
-    "specs": "96GB NVIDIA RTX Pro 6000 GDDR7 ECC - VCNRTXPRO6000BQ-PB"
+    "name": "Notebook Lenovo ThinkPad T490S Intel Core i5 8265U Pantalla WQHD 14\" / 16GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 295.0,
+    "price_with_margin": 327.59999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-t490s-intel-core-i5-8265u-tela-wqhd-14-16gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62660/753738.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Blackwell 32GB NVIDIA RTX Pro 4500 GDDR7 ECC - VCNRTXPRO4500B-PB",
-    "original_price": 6690.0,
-    "price_with_margin": 6838.8,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-32gb-nvidia-rtx-pro-4500-gddr7-ecc-vcnrtxpro4500b-pb/62414/752538.jpg",
-    "category": "Otros",
-    "specs": "32GB NVIDIA RTX Pro 4500 GDDR7 ECC - VCNRTXPRO4500B-PB"
+    "name": "Notebook Lenovo ThinkPad T490S Intel Core i5 8365U Pantalla WQHD 14\" / 16GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 295.0,
+    "price_with_margin": 327.59999999999997,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-t490s-intel-core-i5-8365u-tela-wqhd-14-16gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62658/753741.jpg",
+    "category": "Almacenamiento",
+    "specs": "16GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Blackwell 24GB NVIDIA RTX Pro 4000 GDDR7 ECC - VCNRTXPRO4000B-PB",
-    "original_price": 3720.0,
-    "price_with_margin": 4056.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-24gb-nvidia-rtx-pro-4000-gddr7-ecc-vcnrtxpro4000b-pb/62412/752558.jpg",
-    "category": "Otros",
-    "specs": "24GB NVIDIA RTX Pro 4000 GDDR7 ECC - VCNRTXPRO4000B-PB"
+    "name": "Notebook Lenovo ThinkPad T490S Intel Core i5 8365U Pantalla WQHD 14\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 255.0,
+    "price_with_margin": 284.4,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-t490s-intel-core-i5-8365u-tela-wqhd-14-8gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62657/753784.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Blackwell 72GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B72-PB",
-    "original_price": 10950.0,
-    "price_with_margin": 11940.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-72gb-nvidia-rtx-pro-5000-gddr7-ecc-vcnrtxpro5000b72-pb/62406/752522.jpg",
-    "category": "Otros",
-    "specs": "72GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B72-PB"
+    "name": "Notebook Lenovo ThinkPad L390 Yoga Intel Core i5 8250U Pantalla Touch Full HD 13.3\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 219.0,
+    "price_with_margin": 247.2,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-l390-yoga-intel-core-i5-8250u-tela-touch-full-hd-133-8gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62654/753763.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Tarjeta Gráfica PNY Blackwell 48GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B-PB",
-    "original_price": 9900.0,
-    "price_with_margin": 10920.0,
-    "image": "https://cdn.visaovip.com/img/prod/placa-de-video-pny-blackwell-48gb-nvidia-rtx-pro-5000-gddr7-ecc-vcnrtxpro5000b-pb/62405/752526.jpg",
-    "category": "Otros",
-    "specs": "48GB NVIDIA RTX Pro 5000 GDDR7 ECC - VCNRTXPRO5000B-PB"
+    "name": "Notebook Lenovo ThinkPad L390 Yoga Intel Core i5 8365U Pantalla Touch Full HD 13.3\" / 8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)",
+    "original_price": 219.0,
+    "price_with_margin": 247.2,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-l390-yoga-intel-core-i5-8365u-tela-touch-full-hd-133-8gb-de-ram-256gb-ssd-preto-ingles-recondicionado/62653/753768.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Negro (Inglés) (Reacondicionado)"
   },
   {
-    "name": "Teclado Gamer Mecánico Corsair Clipper Core 100 USB / Inglés - Negro (CH-910607K-NA)",
-    "original_price": 37.0,
-    "price_with_margin": 35.879999999999995,
-    "image": "https://cdn.visaovip.com/img/prod/teclado-gamer-mecanico-corsair-clipper-core-100-usb-ingles-preto-ch-910607k-na/62268/752966.jpg",
-    "category": "Periféricos",
-    "specs": "Teclado Gamer Mecánico Corsair Clipper Core 100 USB / Inglés - Negro (CH-910607K-NA)"
-  },
-  {
-    "name": "Gabinete Gamer Corsair 2800X CC-9011348-WW Micro ATX / 3 Cooler / ARGB - Blanco",
-    "original_price": 87.0,
-    "price_with_margin": 71.88,
-    "image": "https://cdn.visaovip.com/img/prod/gabinete-gamer-corsair-2800x-cc-9011348-ww-micro-atx-3-cooler-argb-branco/62267/753064.png",
-    "category": "Componentes",
-    "specs": "Gabinete Gamer Corsair 2800X CC-9011348-WW Micro ATX / 3 Cooler / ARGB - Blanco"
+    "name": "Notebook Lenovo ThinkPad L390 Yoga Intel Core i5 8265U Pantalla Touch Full HD 13.3\" / 8GB de RAM / 256GB SSD - Gris (Inglés) (Reacondicionado)",
+    "original_price": 219.0,
+    "price_with_margin": 247.2,
+    "image": "https://cdn.visaovip.com/img/prod/notebook-lenovo-thinkpad-l390-yoga-intel-core-i5-8265u-tela-touch-full-hd-133-8gb-de-ram-256gb-ssd-cinza-ingles-recondicionado/62652/753788.jpg",
+    "category": "Almacenamiento",
+    "specs": "8GB de RAM / 256GB SSD - Gris (Inglés) (Reacondicionado)"
   },
   {
     "name": "Celular Xiaomi Redmi 15C 4Gb De Ram 128Gb Pantalla 6 9 Dual Sim Lte Moonlight Azul Global",
